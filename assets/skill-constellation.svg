@@ -1,2 +1,489 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="800" version="1.1" width="1400" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs /><rect fill="#020617" height="100%" width="100%" x="0" y="0" /><circle cx="535" cy="290" fill="#8BE9FD" opacity="0.4710101771514801" r="5" /><circle cx="58" cy="147" fill="#8BE9FD" opacity="0.31020309675098706" r="5" /><circle cx="99" cy="677" fill="#8BE9FD" opacity="0.17616206393995265" r="3" /><circle cx="466" cy="586" fill="#8BE9FD" opacity="0.1932640554704934" r="4" /><circle cx="637" cy="185" fill="#8BE9FD" opacity="0.3707584643904416" r="4" /><circle cx="1028" cy="140" fill="#8BE9FD" opacity="0.33772511674118505" r="3" /><circle cx="1077" cy="312" fill="#8BE9FD" opacity="0.35359059761351885" r="3" /><circle cx="737" cy="22" fill="#8BE9FD" opacity="0.2849420656953142" r="2" /><circle cx="1221" cy="616" fill="#8BE9FD" opacity="0.14710576301891304" r="5" /><circle cx="938" cy="112" fill="#8BE9FD" opacity="0.19007784014385362" r="4" /><circle cx="892" cy="379" fill="#8BE9FD" opacity="0.1618245737441152" r="2" /><circle cx="1098" cy="166" fill="#8BE9FD" opacity="0.487062939978417" r="4" /><circle cx="451" cy="466" fill="#8BE9FD" opacity="0.34745361902852806" r="2" /><circle cx="1246" cy="683" fill="#8BE9FD" opacity="0.29352903998204083" r="5" /><circle cx="592" cy="683" fill="#8BE9FD" opacity="0.30710487756568355" r="5" /><circle cx="385" cy="54" fill="#8BE9FD" opacity="0.45037556298024195" r="3" /><circle cx="1094" cy="663" fill="#8BE9FD" opacity="0.49645775701439165" r="4" /><circle cx="1001" cy="548" fill="#8BE9FD" opacity="0.3293746752449536" r="4" /><circle cx="1317" cy="449" fill="#8BE9FD" opacity="0.3007479857759757" r="4" /><circle cx="1281" cy="125" fill="#8BE9FD" opacity="0.37272624414184397" r="2" /><circle cx="27" cy="201" fill="#8BE9FD" opacity="0.25224057166124103" r="5" /><circle cx="1020" cy="315" fill="#8BE9FD" opacity="0.320514672628182" r="3" /><circle cx="617" cy="700" fill="#8BE9FD" opacity="0.12720698692450477" r="3" /><circle cx="1037" cy="5" fill="#8BE9FD" opacity="0.4499499800997515" r="3" /><circle cx="188" cy="422" fill="#8BE9FD" opacity="0.2982186534925273" r="2" /><circle cx="506" cy="460" fill="#8BE9FD" opacity="0.42513448560047207" r="4" /><circle cx="654" cy="285" fill="#8BE9FD" opacity="0.31761068352190513" r="2" /><circle cx="1351" cy="119" fill="#8BE9FD" opacity="0.2887975791052917" r="5" /><circle cx="883" cy="389" fill="#8BE9FD" opacity="0.31228622683615337" r="2" /><circle cx="769" cy="194" fill="#8BE9FD" opacity="0.16986599132312757" r="3" /><circle cx="456" cy="54" fill="#8BE9FD" opacity="0.17330234053653915" r="3" /><circle cx="733" cy="557" fill="#8BE9FD" opacity="0.39777696636423643" r="2" /><circle cx="1200" cy="651" fill="#8BE9FD" opacity="0.3435213386255178" r="2" /><circle cx="804" cy="13" fill="#8BE9FD" opacity="0.48309167150647947" r="2" /><circle cx="385" cy="574" fill="#8BE9FD" opacity="0.14319977576821846" r="5" /><circle cx="307" cy="418" fill="#8BE9FD" opacity="0.22876447425084218" r="5" /><circle cx="1059" cy="175" fill="#8BE9FD" opacity="0.38374490249323934" r="4" /><circle cx="205" cy="373" fill="#8BE9FD" opacity="0.13109126417328476" r="2" /><circle cx="927" cy="223" fill="#8BE9FD" opacity="0.2468420006421412" r="2" /><circle cx="315" cy="676" fill="#8BE9FD" opacity="0.44781535830256913" r="3" /><circle cx="700" cy="400" fill="#E2E8F0" opacity="0.9" r="40" /><text fill="#020617" font-family="Arial" font-size="20px" x="662" y="405">COSMOS</text><line opacity="0.7" stroke="#38BDF8" stroke-width="4" x1="700" x2="950.0" y1="400" y2="400.0" /><circle cx="950.0" cy="400.0" fill="#38BDF8" r="22" /><circle cx="950.0" cy="400.0" fill="#38BDF8" opacity="0.15" r="38" /><text fill="#E2E8F0" font-family="Arial" font-size="20px" x="980.0" y="405.0">Python</text><line opacity="0.7" stroke="#C084FC" stroke-width="4" x1="700" x2="876.776695296637" y1="400" y2="576.7766952966368" /><circle cx="876.776695296637" cy="576.7766952966368" fill="#C084FC" r="22" /><circle cx="876.776695296637" cy="576.7766952966368" fill="#C084FC" opacity="0.15" r="38" /><text fill="#E2E8F0" font-family="Arial" font-size="20px" x="906.776695296637" y="581.7766952966368">R</text><line opacity="0.7" stroke="#FBBF24" stroke-width="4" x1="700" x2="700.0" y1="400" y2="650.0" /><circle cx="700.0" cy="650.0" fill="#FBBF24" r="22" /><circle cx="700.0" cy="650.0" fill="#FBBF24" opacity="0.15" r="38" /><text fill="#E2E8F0" font-family="Arial" font-size="20px" x="730.0" y="655.0">SQL</text><line opacity="0.7" stroke="#F472B6" stroke-width="4" x1="700" x2="523.2233047033632" y1="400" y2="576.776695296637" /><circle cx="523.2233047033632" cy="576.776695296637" fill="#F472B6" r="22" /><circle cx="523.2233047033632" cy="576.776695296637" fill="#F472B6" opacity="0.15" r="38" /><text fill="#E2E8F0" font-family="Arial" font-size="20px" x="553.2233047033632" y="581.776695296637">Machine Learning</text><line opacity="0.7" stroke="#22D3EE" stroke-width="4" x1="700" x2="450.0" y1="400" y2="400.00000000000006" /><circle cx="450.0" cy="400.00000000000006" fill="#22D3EE" r="22" /><circle cx="450.0" cy="400.00000000000006" fill="#22D3EE" opacity="0.15" r="38" /><text fill="#E2E8F0" font-family="Arial" font-size="20px" x="480.0" y="405.00000000000006">Statistics</text><line opacity="0.7" stroke="#F43F5E" stroke-width="4" x1="700" x2="523.223304703363" y1="400" y2="223.22330470336314" /><circle cx="523.223304703363" cy="223.22330470336314" fill="#F43F5E" r="22" /><circle cx="523.223304703363" cy="223.22330470336314" fill="#F43F5E" opacity="0.15" r="38" /><text fill="#E2E8F0" font-family="Arial" font-size="20px" x="553.223304703363" y="228.22330470336314">Streamlit</text><line opacity="0.7" stroke="#60A5FA" stroke-width="4" x1="700" x2="700.0" y1="400" y2="150.0" /><circle cx="700.0" cy="150.0" fill="#60A5FA" r="22" /><circle cx="700.0" cy="150.0" fill="#60A5FA" opacity="0.15" r="38" /><text fill="#E2E8F0" font-family="Arial" font-size="20px" x="730.0" y="155.0">Power BI</text><line opacity="0.7" stroke="#FACC15" stroke-width="4" x1="700" x2="876.7766952966368" y1="400" y2="223.22330470336308" /><circle cx="876.7766952966368" cy="223.22330470336308" fill="#FACC15" r="22" /><circle cx="876.7766952966368" cy="223.22330470336308" fill="#FACC15" opacity="0.15" r="38" /><text fill="#E2E8F0" font-family="Arial" font-size="20px" x="906.7766952966368" y="228.22330470336308">Tableau</text></svg>
+<svg width="1400" height="760" viewBox="0 0 1400 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <radialGradient id="bgNebula" cx="50%" cy="45%" r="75%">
+    <stop offset="0%" stop-color="#1e1b4b"/>
+    <stop offset="38%" stop-color="#0f172a"/>
+    <stop offset="100%" stop-color="#020617"/>
+  </radialGradient>
+
+  <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+    <feGaussianBlur stdDeviation="8" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <filter id="strongGlow" x="-120%" y="-120%" width="340%" height="340%">
+    <feGaussianBlur stdDeviation="14" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <linearGradient id="borderGrad" x1="0" y1="0" x2="1400" y2="760">
+    <stop stop-color="#38bdf8"/>
+    <stop offset="0.45" stop-color="#a78bfa"/>
+    <stop offset="1" stop-color="#fbbf24"/>
+  </linearGradient>
+
+  <style>
+    .label {
+      font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace;
+      font-size: 15px;
+      fill: #e0f2fe;
+      letter-spacing: 0.03em;
+      paint-order: stroke;
+      stroke: #020617;
+      stroke-width: 4px;
+      stroke-linejoin: round;
+    }
+    .group {
+      font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace;
+      font-size: 12px;
+      fill: #94a3b8;
+      letter-spacing: 0.18em;
+    }
+    .edge {
+      stroke-linecap: round;
+      stroke-dasharray: 500;
+      stroke-dashoffset: 500;
+      animation: draw 3.2s ease forwards;
+    }
+    .node {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: pulse 2.8s ease-in-out infinite;
+    }
+    .star {
+      animation: twinkle 3.5s ease-in-out infinite;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+    .float {
+      animation: drift 8s ease-in-out infinite;
+    }
+    @keyframes draw {
+      to { stroke-dashoffset: 0; }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.86; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.18); }
+    }
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.22; transform: scale(1); }
+      50% { opacity: 0.9; transform: scale(1.45); }
+    }
+    @keyframes drift {
+      0%, 100% { transform: translate(0, 0); }
+      50% { transform: translate(10px, -8px); }
+    }
+  </style>
+</defs>
+
+<rect width="100%" height="100%" rx="26" fill="url(#bgNebula)"/>
+<rect x="10" y="10" width="1380" height="740" rx="24" stroke="url(#borderGrad)" stroke-opacity="0.55" stroke-width="2"/>
+<rect x="24" y="24" width="1352" height="712" rx="20" fill="#020617" opacity="0.38"/>
+
+<g class="float">
+  <circle cx="310" cy="175" r="180" fill="#7c3aed" opacity="0.08"/>
+  <circle cx="1030" cy="510" r="210" fill="#0891b2" opacity="0.08"/>
+  <circle cx="720" cy="350" r="260" fill="#c084fc" opacity="0.045"/>
+</g>
+
+<circle class="star" cx="1344" cy="149" r="1" fill="#a78bfa" opacity="0.5207752498799164" style="animation-delay:0.86s"/>
+<circle class="star" cx="244" cy="593" r="1" fill="#e0f2fe" opacity="0.44524625622451985" style="animation-delay:0.11s"/>
+<circle class="star" cx="482" cy="273" r="2.4" fill="#f8fafc" opacity="0.4510093645249902" style="animation-delay:1.96s"/>
+<circle class="star" cx="486" cy="494" r="2.4" fill="#a78bfa" opacity="0.2890953541153314" style="animation-delay:3.04s"/>
+<circle class="star" cx="900" cy="383" r="1.5" fill="#38bdf8" opacity="0.22773974990589077" style="animation-delay:3.35s"/>
+<circle class="star" cx="244" cy="129" r="2" fill="#38bdf8" opacity="0.198358188416732" style="animation-delay:2.97s"/>
+<circle class="star" cx="123" cy="505" r="2.4" fill="#e0f2fe" opacity="0.21241308142660467" style="animation-delay:3.23s"/>
+<circle class="star" cx="1165" cy="335" r="2.4" fill="#a78bfa" opacity="0.5927258739684034" style="animation-delay:1.27s"/>
+<circle class="star" cx="177" cy="81" r="1.2" fill="#a78bfa" opacity="0.5365341703943459" style="animation-delay:3.45s"/>
+<circle class="star" cx="241" cy="424" r="1.5" fill="#a78bfa" opacity="0.37670515118421777" style="animation-delay:2.92s"/>
+<circle class="star" cx="793" cy="398" r="1.2" fill="#e0f2fe" opacity="0.4850875871888467" style="animation-delay:2.46s"/>
+<circle class="star" cx="1282" cy="685" r="1.2" fill="#f8fafc" opacity="0.41706993851485397" style="animation-delay:0.86s"/>
+<circle class="star" cx="812" cy="311" r="2.4" fill="#e0f2fe" opacity="0.2598075869851345" style="animation-delay:1.13s"/>
+<circle class="star" cx="504" cy="67" r="1.5" fill="#38bdf8" opacity="0.3505823935111645" style="animation-delay:0.23s"/>
+<circle class="star" cx="470" cy="706" r="2" fill="#f8fafc" opacity="0.3478159505303321" style="animation-delay:3.20s"/>
+<circle class="star" cx="327" cy="306" r="1.2" fill="#38bdf8" opacity="0.27331375384699175" style="animation-delay:1.96s"/>
+<circle class="star" cx="1232" cy="473" r="2.4" fill="#a78bfa" opacity="0.34970025257019866" style="animation-delay:0.77s"/>
+<circle class="star" cx="1078" cy="540" r="1" fill="#a78bfa" opacity="0.5278910787668689" style="animation-delay:3.01s"/>
+<circle class="star" cx="1320" cy="198" r="2" fill="#f8fafc" opacity="0.44820451536598693" style="animation-delay:1.35s"/>
+<circle class="star" cx="1118" cy="292" r="2.4" fill="#e0f2fe" opacity="0.5803898511172491" style="animation-delay:0.04s"/>
+<circle class="star" cx="1134" cy="308" r="1.5" fill="#f8fafc" opacity="0.2057760867979382" style="animation-delay:1.52s"/>
+<circle class="star" cx="41" cy="304" r="2.4" fill="#e0f2fe" opacity="0.5309810995260323" style="animation-delay:1.78s"/>
+<circle class="star" cx="1315" cy="340" r="2.4" fill="#a78bfa" opacity="0.4544851057190862" style="animation-delay:0.53s"/>
+<circle class="star" cx="1139" cy="578" r="1" fill="#e0f2fe" opacity="0.44947229223011453" style="animation-delay:1.71s"/>
+<circle class="star" cx="778" cy="349" r="1.2" fill="#e0f2fe" opacity="0.17896258324709377" style="animation-delay:3.07s"/>
+<circle class="star" cx="210" cy="532" r="1" fill="#a78bfa" opacity="0.6389922468386671" style="animation-delay:1.86s"/>
+<circle class="star" cx="297" cy="710" r="2" fill="#f8fafc" opacity="0.6234243398524955" style="animation-delay:0.58s"/>
+<circle class="star" cx="468" cy="587" r="1.2" fill="#38bdf8" opacity="0.5064744864095609" style="animation-delay:1.40s"/>
+<circle class="star" cx="932" cy="564" r="2" fill="#38bdf8" opacity="0.21050209793413285" style="animation-delay:0.79s"/>
+<circle class="star" cx="78" cy="637" r="2.4" fill="#e0f2fe" opacity="0.26505736629828847" style="animation-delay:0.77s"/>
+<circle class="star" cx="1327" cy="95" r="1.2" fill="#38bdf8" opacity="0.18370016405515374" style="animation-delay:0.11s"/>
+<circle class="star" cx="180" cy="561" r="1.2" fill="#a78bfa" opacity="0.2892386319822735" style="animation-delay:1.70s"/>
+<circle class="star" cx="1204" cy="625" r="2" fill="#f8fafc" opacity="0.2714986211978623" style="animation-delay:1.66s"/>
+<circle class="star" cx="424" cy="131" r="1" fill="#f8fafc" opacity="0.4794913747573315" style="animation-delay:1.24s"/>
+<circle class="star" cx="991" cy="90" r="1" fill="#e0f2fe" opacity="0.18030633703850682" style="animation-delay:2.55s"/>
+<circle class="star" cx="544" cy="231" r="1.2" fill="#a78bfa" opacity="0.41814287695517216" style="animation-delay:0.49s"/>
+<circle class="star" cx="605" cy="508" r="1.2" fill="#e0f2fe" opacity="0.5872429770352899" style="animation-delay:0.26s"/>
+<circle class="star" cx="138" cy="702" r="2.4" fill="#a78bfa" opacity="0.568013792539976" style="animation-delay:3.39s"/>
+<circle class="star" cx="375" cy="451" r="2" fill="#e0f2fe" opacity="0.3906792089855198" style="animation-delay:3.03s"/>
+<circle class="star" cx="372" cy="423" r="1" fill="#f8fafc" opacity="0.642654421889863" style="animation-delay:0.93s"/>
+<circle class="star" cx="619" cy="468" r="2.4" fill="#a78bfa" opacity="0.4809356559753726" style="animation-delay:1.70s"/>
+<circle class="star" cx="642" cy="257" r="1" fill="#38bdf8" opacity="0.43959014540812813" style="animation-delay:1.90s"/>
+<circle class="star" cx="152" cy="86" r="2.4" fill="#a78bfa" opacity="0.3883942585544674" style="animation-delay:3.22s"/>
+<circle class="star" cx="151" cy="555" r="1" fill="#e0f2fe" opacity="0.5756712726720608" style="animation-delay:0.24s"/>
+<circle class="star" cx="516" cy="448" r="1" fill="#e0f2fe" opacity="0.6207980636145447" style="animation-delay:1.99s"/>
+<circle class="star" cx="1303" cy="118" r="2" fill="#38bdf8" opacity="0.47868658223626126" style="animation-delay:1.98s"/>
+<circle class="star" cx="569" cy="244" r="1.5" fill="#38bdf8" opacity="0.26934297630792303" style="animation-delay:1.39s"/>
+<circle class="star" cx="971" cy="358" r="1" fill="#e0f2fe" opacity="0.1546577284421232" style="animation-delay:2.17s"/>
+<circle class="star" cx="185" cy="585" r="1.2" fill="#38bdf8" opacity="0.4029423470243827" style="animation-delay:0.46s"/>
+<circle class="star" cx="175" cy="285" r="1.5" fill="#38bdf8" opacity="0.2924936956083284" style="animation-delay:1.53s"/>
+<circle class="star" cx="1287" cy="704" r="2.4" fill="#38bdf8" opacity="0.15391155357607897" style="animation-delay:2.86s"/>
+<circle class="star" cx="247" cy="172" r="1.5" fill="#a78bfa" opacity="0.2077143352095511" style="animation-delay:0.37s"/>
+<circle class="star" cx="592" cy="323" r="2.4" fill="#38bdf8" opacity="0.25531482740347156" style="animation-delay:1.20s"/>
+<circle class="star" cx="1070" cy="535" r="1.5" fill="#e0f2fe" opacity="0.6026682455396616" style="animation-delay:2.96s"/>
+<circle class="star" cx="1334" cy="468" r="1.5" fill="#a78bfa" opacity="0.172043380899525" style="animation-delay:1.17s"/>
+<circle class="star" cx="1339" cy="303" r="1.2" fill="#f8fafc" opacity="0.5206154541739654" style="animation-delay:1.93s"/>
+<circle class="star" cx="1183" cy="44" r="1" fill="#a78bfa" opacity="0.18762193003688352" style="animation-delay:3.09s"/>
+<circle class="star" cx="1152" cy="71" r="1.5" fill="#a78bfa" opacity="0.441254783244897" style="animation-delay:0.52s"/>
+<circle class="star" cx="120" cy="350" r="1.5" fill="#e0f2fe" opacity="0.599490744371295" style="animation-delay:2.79s"/>
+<circle class="star" cx="767" cy="250" r="1.2" fill="#f8fafc" opacity="0.4834667053177715" style="animation-delay:1.24s"/>
+<circle class="star" cx="1306" cy="193" r="1.2" fill="#a78bfa" opacity="0.582302848109982" style="animation-delay:3.42s"/>
+<circle class="star" cx="879" cy="60" r="1.2" fill="#f8fafc" opacity="0.5182822358775411" style="animation-delay:1.16s"/>
+<circle class="star" cx="543" cy="308" r="1.2" fill="#e0f2fe" opacity="0.5436872545677356" style="animation-delay:0.38s"/>
+<circle class="star" cx="998" cy="262" r="1.2" fill="#38bdf8" opacity="0.5582933027984645" style="animation-delay:1.61s"/>
+<circle class="star" cx="501" cy="263" r="1" fill="#38bdf8" opacity="0.4800165913743145" style="animation-delay:1.39s"/>
+<circle class="star" cx="177" cy="320" r="1.5" fill="#38bdf8" opacity="0.47074086930381387" style="animation-delay:1.40s"/>
+<circle class="star" cx="91" cy="153" r="1.5" fill="#38bdf8" opacity="0.23928390808623182" style="animation-delay:3.37s"/>
+<circle class="star" cx="113" cy="146" r="2.4" fill="#38bdf8" opacity="0.36728187928232214" style="animation-delay:2.55s"/>
+<circle class="star" cx="928" cy="655" r="2.4" fill="#a78bfa" opacity="0.20782289201466522" style="animation-delay:3.15s"/>
+<circle class="star" cx="556" cy="80" r="2" fill="#a78bfa" opacity="0.15084563910931473" style="animation-delay:3.24s"/>
+<circle class="star" cx="780" cy="476" r="1" fill="#38bdf8" opacity="0.6244372429856572" style="animation-delay:3.22s"/>
+<circle class="star" cx="290" cy="342" r="2.4" fill="#f8fafc" opacity="0.3046423311043266" style="animation-delay:1.43s"/>
+<circle class="star" cx="640" cy="602" r="1.2" fill="#f8fafc" opacity="0.24592004649507374" style="animation-delay:2.33s"/>
+<circle class="star" cx="391" cy="665" r="2.4" fill="#e0f2fe" opacity="0.30047493728278263" style="animation-delay:1.92s"/>
+<circle class="star" cx="657" cy="328" r="1.2" fill="#38bdf8" opacity="0.3649440749949173" style="animation-delay:2.03s"/>
+<circle class="star" cx="987" cy="487" r="2" fill="#a78bfa" opacity="0.48781361659504996" style="animation-delay:1.79s"/>
+<circle class="star" cx="208" cy="325" r="2.4" fill="#e0f2fe" opacity="0.48192691815249933" style="animation-delay:2.17s"/>
+<circle class="star" cx="516" cy="723" r="1.5" fill="#e0f2fe" opacity="0.2623203329986441" style="animation-delay:0.70s"/>
+<circle class="star" cx="129" cy="285" r="2" fill="#f8fafc" opacity="0.45563698653034" style="animation-delay:2.69s"/>
+<circle class="star" cx="883" cy="679" r="2.4" fill="#f8fafc" opacity="0.24721761836985465" style="animation-delay:2.44s"/>
+<circle class="star" cx="853" cy="284" r="1.2" fill="#e0f2fe" opacity="0.478029005555892" style="animation-delay:0.02s"/>
+<circle class="star" cx="905" cy="259" r="1.2" fill="#f8fafc" opacity="0.5520549280865715" style="animation-delay:2.44s"/>
+<circle class="star" cx="137" cy="605" r="1.2" fill="#a78bfa" opacity="0.6087350072277201" style="animation-delay:0.42s"/>
+<circle class="star" cx="986" cy="718" r="2.4" fill="#f8fafc" opacity="0.643946226533224" style="animation-delay:2.08s"/>
+<circle class="star" cx="1289" cy="551" r="2" fill="#a78bfa" opacity="0.5652845848607075" style="animation-delay:1.92s"/>
+<circle class="star" cx="1007" cy="495" r="1.5" fill="#38bdf8" opacity="0.5258883932502557" style="animation-delay:2.94s"/>
+<circle class="star" cx="1102" cy="531" r="1.2" fill="#38bdf8" opacity="0.28729872345876917" style="animation-delay:0.27s"/>
+<circle class="star" cx="515" cy="313" r="1.5" fill="#a78bfa" opacity="0.3098547842093812" style="animation-delay:1.89s"/>
+<circle class="star" cx="343" cy="271" r="2" fill="#e0f2fe" opacity="0.4969749061495261" style="animation-delay:2.47s"/>
+<circle class="star" cx="884" cy="452" r="1.5" fill="#a78bfa" opacity="0.4213055702519577" style="animation-delay:1.46s"/>
+<circle class="star" cx="895" cy="433" r="2.4" fill="#f8fafc" opacity="0.6230310167950502" style="animation-delay:0.07s"/>
+<circle class="star" cx="1011" cy="41" r="1.5" fill="#f8fafc" opacity="0.2993063261861917" style="animation-delay:1.36s"/>
+<circle class="star" cx="1137" cy="594" r="2.4" fill="#38bdf8" opacity="0.5989056736995976" style="animation-delay:1.71s"/>
+<circle class="star" cx="927" cy="532" r="1" fill="#f8fafc" opacity="0.344428601623064" style="animation-delay:2.34s"/>
+<circle class="star" cx="373" cy="513" r="1.2" fill="#f8fafc" opacity="0.6403609887594616" style="animation-delay:1.87s"/>
+<circle class="star" cx="1247" cy="612" r="1" fill="#f8fafc" opacity="0.1919737310810001" style="animation-delay:1.50s"/>
+<circle class="star" cx="407" cy="86" r="1.5" fill="#38bdf8" opacity="0.33955193209406975" style="animation-delay:0.74s"/>
+<circle class="star" cx="726" cy="423" r="1.5" fill="#38bdf8" opacity="0.5260049117773924" style="animation-delay:2.91s"/>
+<circle class="star" cx="202" cy="516" r="1" fill="#38bdf8" opacity="0.5245121305414253" style="animation-delay:0.18s"/>
+<circle class="star" cx="494" cy="700" r="1" fill="#e0f2fe" opacity="0.5406165248054474" style="animation-delay:2.28s"/>
+<circle class="star" cx="541" cy="239" r="1" fill="#f8fafc" opacity="0.46066782829307895" style="animation-delay:0.83s"/>
+<circle class="star" cx="269" cy="612" r="1.2" fill="#38bdf8" opacity="0.38251699171761033" style="animation-delay:0.90s"/>
+<circle class="star" cx="378" cy="655" r="2.4" fill="#a78bfa" opacity="0.6318673720506044" style="animation-delay:2.51s"/>
+<circle class="star" cx="672" cy="145" r="2.4" fill="#f8fafc" opacity="0.162839212748733" style="animation-delay:1.09s"/>
+<circle class="star" cx="847" cy="238" r="1" fill="#a78bfa" opacity="0.4460489306249261" style="animation-delay:2.91s"/>
+<circle class="star" cx="243" cy="343" r="2.4" fill="#e0f2fe" opacity="0.5527639818230832" style="animation-delay:2.79s"/>
+<circle class="star" cx="746" cy="580" r="2" fill="#38bdf8" opacity="0.480760670343678" style="animation-delay:0.24s"/>
+<circle class="star" cx="60" cy="465" r="2" fill="#f8fafc" opacity="0.2027694353219993" style="animation-delay:3.36s"/>
+<circle class="star" cx="348" cy="480" r="1.2" fill="#38bdf8" opacity="0.5168976520066959" style="animation-delay:3.38s"/>
+<circle class="star" cx="1296" cy="586" r="2" fill="#38bdf8" opacity="0.3824368858172539" style="animation-delay:2.89s"/>
+<circle class="star" cx="695" cy="286" r="1" fill="#f8fafc" opacity="0.28946412459623505" style="animation-delay:1.58s"/>
+<circle class="star" cx="1202" cy="659" r="2" fill="#38bdf8" opacity="0.31819830994568765" style="animation-delay:1.73s"/>
+<circle class="star" cx="407" cy="534" r="1.2" fill="#38bdf8" opacity="0.3274124830880476" style="animation-delay:0.90s"/>
+<circle class="star" cx="1255" cy="317" r="2.4" fill="#e0f2fe" opacity="0.15507555721933855" style="animation-delay:3.32s"/>
+<circle class="star" cx="529" cy="451" r="2" fill="#f8fafc" opacity="0.42758810579093043" style="animation-delay:0.84s"/>
+<circle class="star" cx="1357" cy="537" r="2" fill="#a78bfa" opacity="0.5464664340661587" style="animation-delay:0.33s"/>
+<circle class="star" cx="863" cy="284" r="1.5" fill="#38bdf8" opacity="0.481980010798408" style="animation-delay:1.29s"/>
+<circle class="star" cx="906" cy="598" r="1.5" fill="#38bdf8" opacity="0.3259052638070842" style="animation-delay:1.59s"/>
+<circle class="star" cx="549" cy="271" r="1" fill="#a78bfa" opacity="0.5106421656630348" style="animation-delay:1.10s"/>
+<circle class="star" cx="427" cy="256" r="2" fill="#38bdf8" opacity="0.28824981348434464" style="animation-delay:2.06s"/>
+<circle class="star" cx="240" cy="233" r="1.5" fill="#e0f2fe" opacity="0.2637415817412774" style="animation-delay:0.63s"/>
+<circle class="star" cx="1128" cy="164" r="1.5" fill="#38bdf8" opacity="0.17275785049160916" style="animation-delay:0.19s"/>
+<circle class="star" cx="293" cy="688" r="2" fill="#38bdf8" opacity="0.20129382339388033" style="animation-delay:0.04s"/>
+<circle class="star" cx="996" cy="525" r="2" fill="#38bdf8" opacity="0.3203529662801462" style="animation-delay:3.38s"/>
+<circle class="star" cx="1013" cy="151" r="1" fill="#e0f2fe" opacity="0.35035372112596985" style="animation-delay:0.26s"/>
+<circle class="star" cx="345" cy="187" r="2.4" fill="#a78bfa" opacity="0.6245628211790156" style="animation-delay:0.30s"/>
+<circle class="star" cx="277" cy="606" r="2" fill="#a78bfa" opacity="0.45315882562148135" style="animation-delay:2.77s"/>
+<circle class="star" cx="1105" cy="424" r="2" fill="#f8fafc" opacity="0.6042521888119019" style="animation-delay:1.04s"/>
+<circle class="star" cx="660" cy="617" r="2.4" fill="#e0f2fe" opacity="0.18011515218627042" style="animation-delay:3.36s"/>
+<circle class="star" cx="460" cy="675" r="1.2" fill="#a78bfa" opacity="0.28232306264500373" style="animation-delay:0.28s"/>
+<circle class="star" cx="390" cy="600" r="1" fill="#f8fafc" opacity="0.22826630772156906" style="animation-delay:1.43s"/>
+<circle class="star" cx="631" cy="68" r="1.2" fill="#f8fafc" opacity="0.29405244479684467" style="animation-delay:0.99s"/>
+<circle class="star" cx="180" cy="274" r="1.5" fill="#a78bfa" opacity="0.5439140133233656" style="animation-delay:2.19s"/>
+<circle class="star" cx="905" cy="152" r="2.4" fill="#38bdf8" opacity="0.26240472513301194" style="animation-delay:0.52s"/>
+<circle class="star" cx="326" cy="108" r="1" fill="#38bdf8" opacity="0.23296139461036233" style="animation-delay:1.08s"/>
+<circle class="star" cx="934" cy="162" r="2" fill="#38bdf8" opacity="0.4943389956060469" style="animation-delay:2.45s"/>
+<circle class="star" cx="1059" cy="587" r="2" fill="#f8fafc" opacity="0.36887943178579896" style="animation-delay:2.09s"/>
+<circle class="star" cx="695" cy="653" r="1.5" fill="#e0f2fe" opacity="0.16293244619416772" style="animation-delay:0.80s"/>
+<circle class="star" cx="586" cy="625" r="1" fill="#f8fafc" opacity="0.5315545020858528" style="animation-delay:0.61s"/>
+<circle class="star" cx="604" cy="220" r="2.4" fill="#e0f2fe" opacity="0.3679424935385015" style="animation-delay:2.85s"/>
+<circle class="star" cx="997" cy="391" r="2" fill="#a78bfa" opacity="0.31665419683254603" style="animation-delay:2.35s"/>
+<circle class="star" cx="710" cy="456" r="2" fill="#e0f2fe" opacity="0.2941088976807279" style="animation-delay:3.31s"/>
+<circle class="star" cx="966" cy="125" r="1.5" fill="#f8fafc" opacity="0.2761994254711039" style="animation-delay:0.41s"/>
+<circle class="star" cx="1088" cy="36" r="2.4" fill="#38bdf8" opacity="0.380988172491072" style="animation-delay:0.19s"/>
+<circle class="star" cx="1310" cy="545" r="2" fill="#a78bfa" opacity="0.5299952680305084" style="animation-delay:0.71s"/>
+<circle class="star" cx="624" cy="483" r="2" fill="#a78bfa" opacity="0.21071304168130991" style="animation-delay:3.41s"/>
+<circle class="star" cx="359" cy="353" r="2.4" fill="#a78bfa" opacity="0.15683723223303034" style="animation-delay:1.43s"/>
+<circle class="star" cx="267" cy="507" r="1" fill="#38bdf8" opacity="0.4738548443918793" style="animation-delay:0.54s"/>
+<circle class="star" cx="1077" cy="314" r="2" fill="#a78bfa" opacity="0.5673619727883472" style="animation-delay:3.43s"/>
+<circle class="star" cx="970" cy="599" r="1.2" fill="#a78bfa" opacity="0.3417930066235749" style="animation-delay:3.23s"/>
+<circle class="star" cx="177" cy="317" r="2" fill="#38bdf8" opacity="0.3199376215571478" style="animation-delay:2.76s"/>
+<circle class="star" cx="40" cy="324" r="1.5" fill="#f8fafc" opacity="0.5687379613032106" style="animation-delay:2.03s"/>
+<circle class="star" cx="339" cy="492" r="2.4" fill="#f8fafc" opacity="0.39217069277586014" style="animation-delay:1.16s"/>
+<circle class="star" cx="967" cy="364" r="1.2" fill="#f8fafc" opacity="0.6403873156662971" style="animation-delay:0.84s"/>
+<circle class="star" cx="513" cy="455" r="1" fill="#f8fafc" opacity="0.30908816361689995" style="animation-delay:1.66s"/>
+<circle class="star" cx="825" cy="714" r="1.2" fill="#38bdf8" opacity="0.3976643248082118" style="animation-delay:0.13s"/>
+<circle class="star" cx="240" cy="485" r="1" fill="#a78bfa" opacity="0.41297554340378073" style="animation-delay:1.60s"/>
+<circle class="star" cx="874" cy="705" r="1.2" fill="#38bdf8" opacity="0.1874141241218544" style="animation-delay:2.74s"/>
+<circle class="star" cx="728" cy="673" r="2" fill="#f8fafc" opacity="0.47491832628963626" style="animation-delay:2.98s"/>
+<circle class="star" cx="683" cy="676" r="2" fill="#e0f2fe" opacity="0.5861915086992682" style="animation-delay:0.13s"/>
+<circle class="star" cx="515" cy="681" r="1.5" fill="#f8fafc" opacity="0.6487129614781076" style="animation-delay:2.61s"/>
+<circle class="star" cx="236" cy="683" r="1" fill="#e0f2fe" opacity="0.37183927583085286" style="animation-delay:2.43s"/>
+<circle class="star" cx="129" cy="367" r="1" fill="#a78bfa" opacity="0.29668388798260437" style="animation-delay:1.31s"/>
+<circle class="star" cx="535" cy="578" r="2" fill="#a78bfa" opacity="0.4329640309579684" style="animation-delay:2.77s"/>
+<circle class="star" cx="393" cy="115" r="2.4" fill="#a78bfa" opacity="0.5854197993224274" style="animation-delay:2.17s"/>
+<circle class="star" cx="1054" cy="632" r="1.2" fill="#f8fafc" opacity="0.26609422214757616" style="animation-delay:2.23s"/>
+<circle class="star" cx="557" cy="717" r="1" fill="#38bdf8" opacity="0.5994542658501605" style="animation-delay:1.63s"/>
+<circle class="star" cx="1154" cy="196" r="1" fill="#38bdf8" opacity="0.3708648918019072" style="animation-delay:1.21s"/>
+<circle class="star" cx="1343" cy="469" r="1.5" fill="#f8fafc" opacity="0.3784179063338933" style="animation-delay:1.06s"/>
+<circle class="star" cx="1024" cy="144" r="1.2" fill="#38bdf8" opacity="0.34068214882881453" style="animation-delay:1.26s"/>
+<circle class="star" cx="639" cy="57" r="2" fill="#e0f2fe" opacity="0.28724019008911383" style="animation-delay:1.98s"/>
+<circle class="star" cx="1276" cy="543" r="1.5" fill="#38bdf8" opacity="0.5378704898016904" style="animation-delay:0.81s"/>
+<circle class="star" cx="483" cy="686" r="1.2" fill="#a78bfa" opacity="0.46044558156515203" style="animation-delay:2.37s"/>
+<circle class="star" cx="1321" cy="134" r="1" fill="#38bdf8" opacity="0.304466441976318" style="animation-delay:1.54s"/>
+<circle class="star" cx="304" cy="127" r="1.5" fill="#a78bfa" opacity="0.31335956285700517" style="animation-delay:1.45s"/>
+<circle class="star" cx="305" cy="587" r="1.5" fill="#a78bfa" opacity="0.41542618685139254" style="animation-delay:3.20s"/>
+<circle class="star" cx="561" cy="528" r="1.5" fill="#e0f2fe" opacity="0.5232796753585225" style="animation-delay:1.19s"/>
+<circle class="star" cx="994" cy="112" r="1.2" fill="#f8fafc" opacity="0.5270757465306677" style="animation-delay:0.79s"/>
+<circle class="star" cx="1176" cy="409" r="1" fill="#e0f2fe" opacity="0.5453409842944688" style="animation-delay:0.05s"/>
+<circle class="star" cx="966" cy="412" r="1.5" fill="#38bdf8" opacity="0.44228004582608305" style="animation-delay:2.88s"/>
+<circle class="star" cx="256" cy="274" r="2" fill="#38bdf8" opacity="0.16251232482324116" style="animation-delay:3.09s"/>
+<circle class="star" cx="1284" cy="261" r="1" fill="#38bdf8" opacity="0.46770196118896956" style="animation-delay:1.62s"/>
+<circle class="star" cx="1364" cy="453" r="1" fill="#38bdf8" opacity="0.21988850625361053" style="animation-delay:3.31s"/>
+<circle class="star" cx="1043" cy="153" r="1" fill="#f8fafc" opacity="0.26740001621566456" style="animation-delay:1.88s"/>
+<circle class="star" cx="964" cy="414" r="2.4" fill="#a78bfa" opacity="0.3595633767073614" style="animation-delay:2.60s"/>
+<circle class="star" cx="884" cy="705" r="1" fill="#38bdf8" opacity="0.5668465416481607" style="animation-delay:2.15s"/>
+<circle class="star" cx="102" cy="414" r="1.2" fill="#38bdf8" opacity="0.3716915430303508" style="animation-delay:3.33s"/>
+<circle class="star" cx="238" cy="411" r="2.4" fill="#e0f2fe" opacity="0.6008481062123273" style="animation-delay:2.26s"/>
+<circle class="star" cx="850" cy="317" r="1.2" fill="#f8fafc" opacity="0.6341034379681934" style="animation-delay:3.32s"/>
+<circle class="star" cx="222" cy="713" r="1.2" fill="#e0f2fe" opacity="0.4708522336166088" style="animation-delay:2.09s"/>
+
+<text x="50%" y="52" text-anchor="middle" fill="#f8fafc"
+      font-family="JetBrains Mono, Fira Code, Consolas, monospace"
+      font-size="28" font-weight="700" letter-spacing="0.08em">
+  SKILL CONSTELLATION
+</text>
+<text x="50%" y="82" text-anchor="middle" fill="#94a3b8"
+      font-family="JetBrains Mono, Fira Code, Consolas, monospace"
+      font-size="13" letter-spacing="0.16em">
+  DATA SCIENCE · MACHINE LEARNING · ANALYTICS SYSTEMS
+</text>
+
+<line x1="290" y1="250" x2="710" y2="275" stroke="#64748b" stroke-width="1" opacity="0.10"/>
+<line x1="290" y1="250" x2="1090" y2="255" stroke="#64748b" stroke-width="1" opacity="0.10"/>
+<line x1="710" y1="275" x2="1090" y2="255" stroke="#64748b" stroke-width="1" opacity="0.10"/>
+<line x1="430" y1="595" x2="965" y2="585" stroke="#64748b" stroke-width="1" opacity="0.10"/>
+<circle cx="290" cy="250" r="115" fill="#a78bfa" opacity="0.035" filter="url(#softGlow)"/>
+<text class="group" x="290" y="125" text-anchor="middle">LANGUAGES</text>
+<line class="edge" x1="210" y1="150" x2="120" y2="250" stroke="#a78bfa" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.00s"/>
+<line class="edge" x1="210" y1="150" x2="330" y2="325" stroke="#a78bfa" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.15s"/>
+<line class="edge" x1="120" y1="250" x2="230" y2="405" stroke="#a78bfa" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.30s"/>
+<line class="edge" x1="330" y1="325" x2="230" y2="405" stroke="#a78bfa" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.45s"/>
+<circle cx="290" cy="250" r="13" fill="#a78bfa" opacity="0.65" filter="url(#strongGlow)"/>
+<circle class="node" cx="210" cy="150" r="34.199999999999996" fill="#a78bfa" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:0.00s"/>
+<circle cx="210" cy="150" r="17" fill="none" stroke="#a78bfa" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="210" cy="150" r="9" fill="#a78bfa" filter="url(#strongGlow)" style="animation-delay:0.00s"/>
+<circle cx="210" cy="150" r="2.9" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="228" y="155" text-anchor="start">Python</text>
+<circle class="node" cx="120" cy="250" r="26.599999999999998" fill="#a78bfa" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:0.18s"/>
+<circle cx="120" cy="250" r="15" fill="none" stroke="#a78bfa" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="120" cy="250" r="7" fill="#a78bfa" filter="url(#strongGlow)" style="animation-delay:0.18s"/>
+<circle cx="120" cy="250" r="2.5" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="138" y="255" text-anchor="start">R</text>
+<circle class="node" cx="330" cy="325" r="30.4" fill="#a78bfa" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:0.36s"/>
+<circle cx="330" cy="325" r="16" fill="none" stroke="#a78bfa" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="330" cy="325" r="8" fill="#a78bfa" filter="url(#strongGlow)" style="animation-delay:0.36s"/>
+<circle cx="330" cy="325" r="2.6" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="348" y="330" text-anchor="start">SQL</text>
+<circle class="node" cx="230" cy="405" r="26.599999999999998" fill="#a78bfa" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:0.54s"/>
+<circle cx="230" cy="405" r="15" fill="none" stroke="#a78bfa" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="230" cy="405" r="7" fill="#a78bfa" filter="url(#strongGlow)" style="animation-delay:0.54s"/>
+<circle cx="230" cy="405" r="2.5" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="248" y="410" text-anchor="start">Statistics</text>
+<circle cx="710" cy="275" r="115" fill="#38bdf8" opacity="0.035" filter="url(#softGlow)"/>
+<text class="group" x="710" y="150" text-anchor="middle">ML & STATS</text>
+<line class="edge" x1="620" y1="115" x2="520" y2="260" stroke="#38bdf8" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.15s"/>
+<line class="edge" x1="620" y1="115" x2="770" y2="235" stroke="#38bdf8" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.30s"/>
+<line class="edge" x1="520" y1="260" x2="770" y2="235" stroke="#38bdf8" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.45s"/>
+<line class="edge" x1="520" y1="260" x2="625" y2="410" stroke="#38bdf8" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.60s"/>
+<line class="edge" x1="770" y1="235" x2="835" y2="390" stroke="#38bdf8" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.75s"/>
+<line class="edge" x1="625" y1="410" x2="835" y2="390" stroke="#38bdf8" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.90s"/>
+<circle cx="710" cy="275" r="13" fill="#38bdf8" opacity="0.65" filter="url(#strongGlow)"/>
+<circle class="node" cx="620" cy="115" r="30.4" fill="#38bdf8" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:0.25s"/>
+<circle cx="620" cy="115" r="16" fill="none" stroke="#38bdf8" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="620" cy="115" r="8" fill="#38bdf8" filter="url(#strongGlow)" style="animation-delay:0.25s"/>
+<circle cx="620" cy="115" r="2.6" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="638" y="120" text-anchor="start">scikit-learn</text>
+<circle class="node" cx="520" cy="260" r="38.0" fill="#38bdf8" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:0.43s"/>
+<circle cx="520" cy="260" r="18" fill="none" stroke="#38bdf8" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="520" cy="260" r="10" fill="#38bdf8" filter="url(#strongGlow)" style="animation-delay:0.43s"/>
+<circle cx="520" cy="260" r="3.2" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="538" y="265" text-anchor="start">Machine Learning</text>
+<circle class="node" cx="770" cy="235" r="30.4" fill="#38bdf8" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:0.61s"/>
+<circle cx="770" cy="235" r="16" fill="none" stroke="#38bdf8" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="770" cy="235" r="8" fill="#38bdf8" filter="url(#strongGlow)" style="animation-delay:0.61s"/>
+<circle cx="770" cy="235" r="2.6" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="788" y="240" text-anchor="start">Feature Eng.</text>
+<circle class="node" cx="625" cy="410" r="30.4" fill="#38bdf8" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:0.79s"/>
+<circle cx="625" cy="410" r="16" fill="none" stroke="#38bdf8" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="625" cy="410" r="8" fill="#38bdf8" filter="url(#strongGlow)" style="animation-delay:0.79s"/>
+<circle cx="625" cy="410" r="2.6" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="643" y="415" text-anchor="start">Model Interpret.</text>
+<circle class="node" cx="835" cy="390" r="26.599999999999998" fill="#38bdf8" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:0.97s"/>
+<circle cx="835" cy="390" r="15" fill="none" stroke="#38bdf8" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="835" cy="390" r="7" fill="#38bdf8" filter="url(#strongGlow)" style="animation-delay:0.97s"/>
+<circle cx="835" cy="390" r="2.5" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="853" y="395" text-anchor="start">Calibration</text>
+<circle cx="1090" cy="255" r="115" fill="#34d399" opacity="0.035" filter="url(#softGlow)"/>
+<text class="group" x="1090" y="130" text-anchor="middle">VISUALIZATION</text>
+<line class="edge" x1="1030" y1="110" x2="1210" y2="210" stroke="#34d399" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.30s"/>
+<line class="edge" x1="1030" y1="110" x2="1010" y2="330" stroke="#34d399" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.45s"/>
+<line class="edge" x1="1210" y1="210" x2="1185" y2="395" stroke="#34d399" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.60s"/>
+<line class="edge" x1="1010" y1="330" x2="1185" y2="395" stroke="#34d399" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.75s"/>
+<circle cx="1090" cy="255" r="13" fill="#34d399" opacity="0.65" filter="url(#strongGlow)"/>
+<circle class="node" cx="1030" cy="110" r="30.4" fill="#34d399" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:0.50s"/>
+<circle cx="1030" cy="110" r="16" fill="none" stroke="#34d399" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="1030" cy="110" r="8" fill="#34d399" filter="url(#strongGlow)" style="animation-delay:0.50s"/>
+<circle cx="1030" cy="110" r="2.6" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="1048" y="115" text-anchor="start">Power BI</text>
+<circle class="node" cx="1210" cy="210" r="30.4" fill="#34d399" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:0.68s"/>
+<circle cx="1210" cy="210" r="16" fill="none" stroke="#34d399" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="1210" cy="210" r="8" fill="#34d399" filter="url(#strongGlow)" style="animation-delay:0.68s"/>
+<circle cx="1210" cy="210" r="2.6" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="1192" y="215" text-anchor="end">Tableau</text>
+<circle class="node" cx="1010" cy="330" r="26.599999999999998" fill="#34d399" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:0.86s"/>
+<circle cx="1010" cy="330" r="15" fill="none" stroke="#34d399" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="1010" cy="330" r="7" fill="#34d399" filter="url(#strongGlow)" style="animation-delay:0.86s"/>
+<circle cx="1010" cy="330" r="2.5" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="1028" y="335" text-anchor="start">Dashboard Design</text>
+<circle class="node" cx="1185" cy="395" r="26.599999999999998" fill="#34d399" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:1.04s"/>
+<circle cx="1185" cy="395" r="15" fill="none" stroke="#34d399" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="1185" cy="395" r="7" fill="#34d399" filter="url(#strongGlow)" style="animation-delay:1.04s"/>
+<circle cx="1185" cy="395" r="2.5" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="1167" y="400" text-anchor="end">Data Storytelling</text>
+<circle cx="430" cy="595" r="115" fill="#fb923c" opacity="0.035" filter="url(#softGlow)"/>
+<text class="group" x="430" y="470" text-anchor="middle">DATA ENGINEERING</text>
+<line class="edge" x1="380" y1="510" x2="250" y2="610" stroke="#fb923c" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.45s"/>
+<line class="edge" x1="380" y1="510" x2="500" y2="665" stroke="#fb923c" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.60s"/>
+<line class="edge" x1="380" y1="510" x2="545" y2="555" stroke="#fb923c" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.75s"/>
+<line class="edge" x1="500" y1="665" x2="545" y2="555" stroke="#fb923c" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.90s"/>
+<circle cx="430" cy="595" r="13" fill="#fb923c" opacity="0.65" filter="url(#strongGlow)"/>
+<circle class="node" cx="380" cy="510" r="30.4" fill="#fb923c" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:0.75s"/>
+<circle cx="380" cy="510" r="16" fill="none" stroke="#fb923c" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="380" cy="510" r="8" fill="#fb923c" filter="url(#strongGlow)" style="animation-delay:0.75s"/>
+<circle cx="380" cy="510" r="2.6" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="398" y="515" text-anchor="start">Pandas</text>
+<circle class="node" cx="250" cy="610" r="26.599999999999998" fill="#fb923c" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:0.93s"/>
+<circle cx="250" cy="610" r="15" fill="none" stroke="#fb923c" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="250" cy="610" r="7" fill="#fb923c" filter="url(#strongGlow)" style="animation-delay:0.93s"/>
+<circle cx="250" cy="610" r="2.5" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="268" y="615" text-anchor="start">NumPy</text>
+<circle class="node" cx="500" cy="665" r="26.599999999999998" fill="#fb923c" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:1.11s"/>
+<circle cx="500" cy="665" r="15" fill="none" stroke="#fb923c" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="500" cy="665" r="7" fill="#fb923c" filter="url(#strongGlow)" style="animation-delay:1.11s"/>
+<circle cx="500" cy="665" r="2.5" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="518" y="670" text-anchor="start">Data Cleaning</text>
+<circle class="node" cx="545" cy="555" r="26.599999999999998" fill="#fb923c" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:1.29s"/>
+<circle cx="545" cy="555" r="15" fill="none" stroke="#fb923c" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="545" cy="555" r="7" fill="#fb923c" filter="url(#strongGlow)" style="animation-delay:1.29s"/>
+<circle cx="545" cy="555" r="2.5" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="563" y="560" text-anchor="start">EDA</text>
+<circle cx="965" cy="585" r="115" fill="#f472b6" opacity="0.035" filter="url(#softGlow)"/>
+<text class="group" x="965" y="460" text-anchor="middle">ANALYTICS</text>
+<line class="edge" x1="875" y1="510" x2="1065" y2="500" stroke="#f472b6" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.60s"/>
+<line class="edge" x1="875" y1="510" x2="850" y2="665" stroke="#f472b6" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.75s"/>
+<line class="edge" x1="1065" y1="500" x2="1115" y2="650" stroke="#f472b6" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.90s"/>
+<line class="edge" x1="850" y1="665" x2="1115" y2="650" stroke="#f472b6" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:1.05s"/>
+<circle cx="965" cy="585" r="13" fill="#f472b6" opacity="0.65" filter="url(#strongGlow)"/>
+<circle class="node" cx="875" cy="510" r="34.199999999999996" fill="#f472b6" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:1.00s"/>
+<circle cx="875" cy="510" r="17" fill="none" stroke="#f472b6" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="875" cy="510" r="9" fill="#f472b6" filter="url(#strongGlow)" style="animation-delay:1.00s"/>
+<circle cx="875" cy="510" r="2.9" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="893" y="515" text-anchor="start">Streamlit</text>
+<circle class="node" cx="1065" cy="500" r="30.4" fill="#f472b6" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:1.18s"/>
+<circle cx="1065" cy="500" r="16" fill="none" stroke="#f472b6" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="1065" cy="500" r="8" fill="#f472b6" filter="url(#strongGlow)" style="animation-delay:1.18s"/>
+<circle cx="1065" cy="500" r="2.6" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="1083" y="505" text-anchor="start">Interpretable AI</text>
+<circle class="node" cx="850" cy="665" r="30.4" fill="#f472b6" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:1.36s"/>
+<circle cx="850" cy="665" r="16" fill="none" stroke="#f472b6" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="850" cy="665" r="8" fill="#f472b6" filter="url(#strongGlow)" style="animation-delay:1.36s"/>
+<circle cx="850" cy="665" r="2.6" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="868" y="670" text-anchor="start">Decision Support</text>
+<circle class="node" cx="1115" cy="650" r="26.599999999999998" fill="#f472b6" opacity="0.16" filter="url(#strongGlow)" style="animation-delay:1.54s"/>
+<circle cx="1115" cy="650" r="15" fill="none" stroke="#f472b6" stroke-opacity="0.32" stroke-width="1.4"/>
+<circle class="node" cx="1115" cy="650" r="7" fill="#f472b6" filter="url(#strongGlow)" style="animation-delay:1.54s"/>
+<circle cx="1115" cy="650" r="2.5" fill="#f8fafc" opacity="0.80"/>
+<text class="label" x="1133" y="655" text-anchor="start">Analytics Eng.</text>
+<rect class="star" x="352" y="705" width="3" height="3" fill="#f472b6" opacity="0.28" rx="1"/>
+<rect class="star" x="346" y="228" width="5" height="5" fill="#f472b6" opacity="0.28" rx="1"/>
+<rect class="star" x="407" y="207" width="5" height="5" fill="#38bdf8" opacity="0.28" rx="1"/>
+<rect class="star" x="319" y="110" width="4" height="4" fill="#a78bfa" opacity="0.28" rx="1"/>
+<rect class="star" x="1255" y="426" width="3" height="3" fill="#a78bfa" opacity="0.28" rx="1"/>
+<rect class="star" x="593" y="148" width="3" height="3" fill="#fbbf24" opacity="0.28" rx="1"/>
+<rect class="star" x="1127" y="211" width="5" height="5" fill="#38bdf8" opacity="0.28" rx="1"/>
+<rect class="star" x="1025" y="554" width="4" height="4" fill="#38bdf8" opacity="0.28" rx="1"/>
+<rect class="star" x="975" y="610" width="3" height="3" fill="#38bdf8" opacity="0.28" rx="1"/>
+<rect class="star" x="1117" y="403" width="4" height="4" fill="#38bdf8" opacity="0.28" rx="1"/>
+<rect class="star" x="174" y="585" width="4" height="4" fill="#fbbf24" opacity="0.28" rx="1"/>
+<rect class="star" x="271" y="597" width="5" height="5" fill="#fbbf24" opacity="0.28" rx="1"/>
+<rect class="star" x="200" y="177" width="4" height="4" fill="#a78bfa" opacity="0.28" rx="1"/>
+<rect class="star" x="184" y="224" width="4" height="4" fill="#f472b6" opacity="0.28" rx="1"/>
+<rect class="star" x="830" y="638" width="4" height="4" fill="#fbbf24" opacity="0.28" rx="1"/>
+<rect class="star" x="1085" y="535" width="3" height="3" fill="#38bdf8" opacity="0.28" rx="1"/>
+<rect class="star" x="1179" y="315" width="4" height="4" fill="#fbbf24" opacity="0.28" rx="1"/>
+<rect class="star" x="517" y="518" width="4" height="4" fill="#fbbf24" opacity="0.28" rx="1"/>
+<rect class="star" x="866" y="520" width="5" height="5" fill="#38bdf8" opacity="0.28" rx="1"/>
+<rect class="star" x="690" y="532" width="4" height="4" fill="#f472b6" opacity="0.28" rx="1"/>
+<rect class="star" x="816" y="251" width="5" height="5" fill="#fbbf24" opacity="0.28" rx="1"/>
+<rect class="star" x="187" y="188" width="3" height="3" fill="#38bdf8" opacity="0.28" rx="1"/>
+<rect class="star" x="934" y="193" width="5" height="5" fill="#f472b6" opacity="0.28" rx="1"/>
+<rect class="star" x="316" y="664" width="3" height="3" fill="#f472b6" opacity="0.28" rx="1"/>
+<rect class="star" x="300" y="515" width="4" height="4" fill="#fbbf24" opacity="0.28" rx="1"/>
+<rect class="star" x="155" y="389" width="5" height="5" fill="#f472b6" opacity="0.28" rx="1"/>
+<rect class="star" x="770" y="201" width="5" height="5" fill="#a78bfa" opacity="0.28" rx="1"/>
+<rect class="star" x="366" y="588" width="3" height="3" fill="#38bdf8" opacity="0.28" rx="1"/>
+<rect class="star" x="767" y="664" width="4" height="4" fill="#38bdf8" opacity="0.28" rx="1"/>
+<rect class="star" x="620" y="682" width="3" height="3" fill="#fbbf24" opacity="0.28" rx="1"/>
+<rect class="star" x="1198" y="665" width="3" height="3" fill="#f472b6" opacity="0.28" rx="1"/>
+<rect class="star" x="109" y="279" width="4" height="4" fill="#f472b6" opacity="0.28" rx="1"/>
+<rect class="star" x="745" y="454" width="3" height="3" fill="#a78bfa" opacity="0.28" rx="1"/>
+<rect class="star" x="343" y="674" width="5" height="5" fill="#fbbf24" opacity="0.28" rx="1"/>
+<rect class="star" x="192" y="240" width="5" height="5" fill="#38bdf8" opacity="0.28" rx="1"/>
+<rect class="star" x="237" y="638" width="3" height="3" fill="#fbbf24" opacity="0.28" rx="1"/>
+<circle cx="260" cy="718" r="5" fill="#a78bfa" filter="url(#softGlow)"/>
+<text x="273" y="722" fill="#cbd5e1" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="11">LANGUAGES</text>
+<circle cx="450" cy="718" r="5" fill="#38bdf8" filter="url(#softGlow)"/>
+<text x="463" y="722" fill="#cbd5e1" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="11">ML & STATS</text>
+<circle cx="640" cy="718" r="5" fill="#34d399" filter="url(#softGlow)"/>
+<text x="653" y="722" fill="#cbd5e1" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="11">VISUALIZATION</text>
+<circle cx="830" cy="718" r="5" fill="#fb923c" filter="url(#softGlow)"/>
+<text x="843" y="722" fill="#cbd5e1" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="11">DATA ENGINEERING</text>
+<circle cx="1020" cy="718" r="5" fill="#f472b6" filter="url(#softGlow)"/>
+<text x="1033" y="722" fill="#cbd5e1" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="11">ANALYTICS</text>
+</svg>
