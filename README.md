@@ -65,7 +65,7 @@ class Chetan:
 # ✦ SKILL CONSTELLATION ✦
 
 <a href="https://ChetanDhingra02.github.io/ChetanDhingra02/skill_constellation_preview.html">
-  <img src="skill_constellation_preview.html" width="96%" alt="Interactive Skill Constellation"/>
+  <img src="skill_constellation_preview.png" width="96%" alt="Interactive Skill Constellation"/>
 </a>
 
 <br/><br/>
