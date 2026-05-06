@@ -1,19 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 860 480" width="860" height="480">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 480" width="860" height="480">
 <defs>
 <radialGradient id="bgGrad" cx="50%" cy="50%" r="70%">
-  <stop offset="0%" stop-color="#0d0820"/>
+  <stop offset="0%"   stop-color="#0d0820"/>
   <stop offset="100%" stop-color="#05040f"/>
 </radialGradient>
 <radialGradient id="neb1" cx="35%" cy="35%" r="35%">
-  <stop offset="0%" stop-color="#5028a0" stop-opacity="0.12"/>
+  <stop offset="0%"   stop-color="#5028a0" stop-opacity="0.12"/>
   <stop offset="100%" stop-color="#05040f" stop-opacity="0"/>
 </radialGradient>
 <radialGradient id="neb2" cx="72%" cy="65%" r="28%">
-  <stop offset="0%" stop-color="#1e5078" stop-opacity="0.10"/>
+  <stop offset="0%"   stop-color="#1e5078" stop-opacity="0.10"/>
   <stop offset="100%" stop-color="#05040f" stop-opacity="0"/>
 </radialGradient>
 <radialGradient id="neb3" cx="20%" cy="75%" r="22%">
-  <stop offset="0%" stop-color="#7c3a6e" stop-opacity="0.08"/>
+  <stop offset="0%"   stop-color="#7c3a6e" stop-opacity="0.08"/>
   <stop offset="100%" stop-color="#05040f" stop-opacity="0"/>
 </radialGradient>
 <filter id="glow_a78bfa" x="-80%" y="-80%" width="260%" height="260%">
@@ -58,95 +58,94 @@
 </filter>
 <style>
 
-@keyframes twinkle { 0%,100%{opacity:0.15} 50%{opacity:0.85} }
-@keyframes pulse   { 0%,100%{r:attr(data-r px);opacity:0.9} 50%{opacity:1} }
-@keyframes nodeGlow{ 0%,100%{opacity:0.55} 50%{opacity:1} }
-@keyframes fadeIn  { from{opacity:0} to{opacity:1} }
-@keyframes drawEdge{ from{stroke-dashoffset:1} to{stroke-dashoffset:0} }
-@keyframes floatLabel{ 0%,100%{opacity:0.75;transform:translateY(0)} 50%{opacity:1;transform:translateY(-1px)} }
-@keyframes scanline{ 0%{transform:translateY(-100%)} 100%{transform:translateY(100%)} }
+@keyframes twinkle   { 0%,100%{opacity:0.15} 50%{opacity:0.85} }
+@keyframes nodeGlow  { 0%,100%{opacity:0.55} 50%{opacity:1}    }
+@keyframes fadeIn    { from{opacity:0}        to{opacity:1}     }
+@keyframes drawEdge  { from{stroke-dashoffset:1} to{stroke-dashoffset:0} }
+@keyframes floatLbl  { 0%,100%{opacity:0.78;transform:translateY(0)}
+                       50%{opacity:1;transform:translateY(-1px)} }
 
-@keyframes pnode0{
+@keyframes pn0{
   0%,100%{r:7.5px;opacity:0.88}
   50%{r:8.8px;opacity:1}
 }
-@keyframes pnode1{
-  0%,100%{r:6px;opacity:0.88}
+@keyframes pn1{
+  0%,100%{r:6.0px;opacity:0.88}
   50%{r:7.1px;opacity:1}
 }
-@keyframes pnode2{
+@keyframes pn2{
   0%,100%{r:6.5px;opacity:0.88}
   50%{r:7.7px;opacity:1}
 }
-@keyframes pnode3{
+@keyframes pn3{
   0%,100%{r:5.5px;opacity:0.88}
   50%{r:6.5px;opacity:1}
 }
-@keyframes pnode4{
-  0%,100%{r:7px;opacity:0.88}
+@keyframes pn4{
+  0%,100%{r:7.0px;opacity:0.88}
   50%{r:8.3px;opacity:1}
 }
-@keyframes pnode5{
-  0%,100%{r:8px;opacity:0.88}
+@keyframes pn5{
+  0%,100%{r:8.0px;opacity:0.88}
   50%{r:9.4px;opacity:1}
 }
-@keyframes pnode6{
-  0%,100%{r:6px;opacity:0.88}
+@keyframes pn6{
+  0%,100%{r:6.0px;opacity:0.88}
   50%{r:7.1px;opacity:1}
 }
-@keyframes pnode7{
+@keyframes pn7{
   0%,100%{r:6.5px;opacity:0.88}
   50%{r:7.7px;opacity:1}
 }
-@keyframes pnode8{
-  0%,100%{r:5px;opacity:0.88}
+@keyframes pn8{
+  0%,100%{r:5.0px;opacity:0.88}
   50%{r:5.9px;opacity:1}
 }
-@keyframes pnode9{
+@keyframes pn9{
   0%,100%{r:6.5px;opacity:0.88}
   50%{r:7.7px;opacity:1}
 }
-@keyframes pnode10{
+@keyframes pn10{
   0%,100%{r:6.5px;opacity:0.88}
   50%{r:7.7px;opacity:1}
 }
-@keyframes pnode11{
-  0%,100%{r:6px;opacity:0.88}
+@keyframes pn11{
+  0%,100%{r:6.0px;opacity:0.88}
   50%{r:7.1px;opacity:1}
 }
-@keyframes pnode12{
+@keyframes pn12{
   0%,100%{r:5.5px;opacity:0.88}
   50%{r:6.5px;opacity:1}
 }
-@keyframes pnode13{
+@keyframes pn13{
   0%,100%{r:6.5px;opacity:0.88}
   50%{r:7.7px;opacity:1}
 }
-@keyframes pnode14{
+@keyframes pn14{
   0%,100%{r:5.5px;opacity:0.88}
   50%{r:6.5px;opacity:1}
 }
-@keyframes pnode15{
+@keyframes pn15{
   0%,100%{r:5.5px;opacity:0.88}
   50%{r:6.5px;opacity:1}
 }
-@keyframes pnode16{
+@keyframes pn16{
   0%,100%{r:5.5px;opacity:0.88}
   50%{r:6.5px;opacity:1}
 }
-@keyframes pnode17{
-  0%,100%{r:7px;opacity:0.88}
+@keyframes pn17{
+  0%,100%{r:7.0px;opacity:0.88}
   50%{r:8.3px;opacity:1}
 }
-@keyframes pnode18{
+@keyframes pn18{
   0%,100%{r:6.5px;opacity:0.88}
   50%{r:7.7px;opacity:1}
 }
-@keyframes pnode19{
-  0%,100%{r:6px;opacity:0.88}
+@keyframes pn19{
+  0%,100%{r:6.0px;opacity:0.88}
   50%{r:7.1px;opacity:1}
 }
-@keyframes pnode20{
+@keyframes pn20{
   0%,100%{r:5.5px;opacity:0.88}
   50%{r:6.5px;opacity:1}
 }
@@ -405,120 +404,99 @@
 <g id="nodes">
 <circle cx="120.4" cy="96.0" r="21.0" fill="rgba(167,139,250,0.15)" filter="url(#glowbig_a78bfa)" style="animation:nodeGlow 2.8s 0.10s ease-in-out infinite;opacity:0"/>
 <circle cx="120.4" cy="96.0" r="12.0" fill="rgba(167,139,250,0.30)" filter="url(#glow_a78bfa)" style="animation:nodeGlow 2.2s 0.10s ease-in-out infinite;opacity:0"/>
-<circle cx="120.4" cy="96.0" r="7.5" fill="#a78bfa" style="animation:pnode0 2.8s 0.10s ease-in-out infinite;opacity:0"/>
+<circle cx="120.4" cy="96.0" r="7.5" fill="#a78bfa" style="animation:pn0 2.8s 0.10s ease-in-out infinite;opacity:0"/>
 <circle cx="60.2" cy="201.6" r="16.8" fill="rgba(167,139,250,0.15)" filter="url(#glowbig_a78bfa)" style="animation:nodeGlow 3.1999999999999997s 0.23s ease-in-out infinite;opacity:0"/>
 <circle cx="60.2" cy="201.6" r="9.6" fill="rgba(167,139,250,0.30)" filter="url(#glow_a78bfa)" style="animation:nodeGlow 2.6s 0.23s ease-in-out infinite;opacity:0"/>
-<circle cx="60.2" cy="201.6" r="6" fill="#a78bfa" style="animation:pnode1 3.1999999999999997s 0.23s ease-in-out infinite;opacity:0"/>
+<circle cx="60.2" cy="201.6" r="6.0" fill="#a78bfa" style="animation:pn1 3.1999999999999997s 0.23s ease-in-out infinite;opacity:0"/>
 <circle cx="189.2" cy="182.4" r="18.2" fill="rgba(167,139,250,0.15)" filter="url(#glowbig_a78bfa)" style="animation:nodeGlow 3.5999999999999996s 0.36s ease-in-out infinite;opacity:0"/>
 <circle cx="189.2" cy="182.4" r="10.4" fill="rgba(167,139,250,0.30)" filter="url(#glow_a78bfa)" style="animation:nodeGlow 2.9s 0.36s ease-in-out infinite;opacity:0"/>
-<circle cx="189.2" cy="182.4" r="6.5" fill="#a78bfa" style="animation:pnode2 3.5999999999999996s 0.36s ease-in-out infinite;opacity:0"/>
+<circle cx="189.2" cy="182.4" r="6.5" fill="#a78bfa" style="animation:pn2 3.5999999999999996s 0.36s ease-in-out infinite;opacity:0"/>
 <circle cx="103.2" cy="288.0" r="15.4" fill="rgba(167,139,250,0.15)" filter="url(#glowbig_a78bfa)" style="animation:nodeGlow 4.0s 0.49s ease-in-out infinite;opacity:0"/>
 <circle cx="103.2" cy="288.0" r="8.8" fill="rgba(167,139,250,0.30)" filter="url(#glow_a78bfa)" style="animation:nodeGlow 3.2s 0.49s ease-in-out infinite;opacity:0"/>
-<circle cx="103.2" cy="288.0" r="5.5" fill="#a78bfa" style="animation:pnode3 4.0s 0.49s ease-in-out infinite;opacity:0"/>
+<circle cx="103.2" cy="288.0" r="5.5" fill="#a78bfa" style="animation:pn3 4.0s 0.49s ease-in-out infinite;opacity:0"/>
 <circle cx="361.2" cy="62.4" r="19.6" fill="rgba(56,189,248,0.15)" filter="url(#glowbig_38bdf8)" style="animation:nodeGlow 4.4s 0.62s ease-in-out infinite;opacity:0"/>
 <circle cx="361.2" cy="62.4" r="11.2" fill="rgba(56,189,248,0.30)" filter="url(#glow_38bdf8)" style="animation:nodeGlow 3.5s 0.62s ease-in-out infinite;opacity:0"/>
-<circle cx="361.2" cy="62.4" r="7" fill="#38bdf8" style="animation:pnode4 4.4s 0.62s ease-in-out infinite;opacity:0"/>
+<circle cx="361.2" cy="62.4" r="7.0" fill="#38bdf8" style="animation:pn4 4.4s 0.62s ease-in-out infinite;opacity:0"/>
 <circle cx="283.8" cy="144.0" r="22.4" fill="rgba(56,189,248,0.15)" filter="url(#glowbig_38bdf8)" style="animation:nodeGlow 2.8s 0.75s ease-in-out infinite;opacity:0"/>
 <circle cx="283.8" cy="144.0" r="12.8" fill="rgba(56,189,248,0.30)" filter="url(#glow_38bdf8)" style="animation:nodeGlow 2.2s 0.75s ease-in-out infinite;opacity:0"/>
-<circle cx="283.8" cy="144.0" r="8" fill="#38bdf8" style="animation:pnode5 2.8s 0.75s ease-in-out infinite;opacity:0"/>
+<circle cx="283.8" cy="144.0" r="8.0" fill="#38bdf8" style="animation:pn5 2.8s 0.75s ease-in-out infinite;opacity:0"/>
 <circle cx="430.0" cy="129.6" r="16.8" fill="rgba(56,189,248,0.15)" filter="url(#glowbig_38bdf8)" style="animation:nodeGlow 3.1999999999999997s 0.88s ease-in-out infinite;opacity:0"/>
 <circle cx="430.0" cy="129.6" r="9.6" fill="rgba(56,189,248,0.30)" filter="url(#glow_38bdf8)" style="animation:nodeGlow 2.6s 0.88s ease-in-out infinite;opacity:0"/>
-<circle cx="430.0" cy="129.6" r="6" fill="#38bdf8" style="animation:pnode6 3.1999999999999997s 0.88s ease-in-out infinite;opacity:0"/>
+<circle cx="430.0" cy="129.6" r="6.0" fill="#38bdf8" style="animation:pn6 3.1999999999999997s 0.88s ease-in-out infinite;opacity:0"/>
 <circle cx="318.2" cy="230.4" r="18.2" fill="rgba(56,189,248,0.15)" filter="url(#glowbig_38bdf8)" style="animation:nodeGlow 3.5999999999999996s 1.01s ease-in-out infinite;opacity:0"/>
 <circle cx="318.2" cy="230.4" r="10.4" fill="rgba(56,189,248,0.30)" filter="url(#glow_38bdf8)" style="animation:nodeGlow 2.9s 1.01s ease-in-out infinite;opacity:0"/>
-<circle cx="318.2" cy="230.4" r="6.5" fill="#38bdf8" style="animation:pnode7 3.5999999999999996s 1.01s ease-in-out infinite;opacity:0"/>
+<circle cx="318.2" cy="230.4" r="6.5" fill="#38bdf8" style="animation:pn7 3.5999999999999996s 1.01s ease-in-out infinite;opacity:0"/>
 <circle cx="464.4" cy="211.2" r="14.0" fill="rgba(56,189,248,0.15)" filter="url(#glowbig_38bdf8)" style="animation:nodeGlow 4.0s 1.14s ease-in-out infinite;opacity:0"/>
 <circle cx="464.4" cy="211.2" r="8.0" fill="rgba(56,189,248,0.30)" filter="url(#glow_38bdf8)" style="animation:nodeGlow 3.2s 1.14s ease-in-out infinite;opacity:0"/>
-<circle cx="464.4" cy="211.2" r="5" fill="#38bdf8" style="animation:pnode8 4.0s 1.14s ease-in-out infinite;opacity:0"/>
+<circle cx="464.4" cy="211.2" r="5.0" fill="#38bdf8" style="animation:pn8 4.0s 1.14s ease-in-out infinite;opacity:0"/>
 <circle cx="645.0" cy="76.8" r="18.2" fill="rgba(52,211,153,0.15)" filter="url(#glowbig_34d399)" style="animation:nodeGlow 4.4s 1.27s ease-in-out infinite;opacity:0"/>
 <circle cx="645.0" cy="76.8" r="10.4" fill="rgba(52,211,153,0.30)" filter="url(#glow_34d399)" style="animation:nodeGlow 3.5s 1.27s ease-in-out infinite;opacity:0"/>
-<circle cx="645.0" cy="76.8" r="6.5" fill="#34d399" style="animation:pnode9 4.4s 1.27s ease-in-out infinite;opacity:0"/>
+<circle cx="645.0" cy="76.8" r="6.5" fill="#34d399" style="animation:pn9 4.4s 1.27s ease-in-out infinite;opacity:0"/>
 <circle cx="756.8" cy="134.4" r="18.2" fill="rgba(52,211,153,0.15)" filter="url(#glowbig_34d399)" style="animation:nodeGlow 2.8s 1.40s ease-in-out infinite;opacity:0"/>
 <circle cx="756.8" cy="134.4" r="10.4" fill="rgba(52,211,153,0.30)" filter="url(#glow_34d399)" style="animation:nodeGlow 2.2s 1.40s ease-in-out infinite;opacity:0"/>
-<circle cx="756.8" cy="134.4" r="6.5" fill="#34d399" style="animation:pnode10 2.8s 1.40s ease-in-out infinite;opacity:0"/>
+<circle cx="756.8" cy="134.4" r="6.5" fill="#34d399" style="animation:pn10 2.8s 1.40s ease-in-out infinite;opacity:0"/>
 <circle cx="705.2" cy="211.2" r="16.8" fill="rgba(52,211,153,0.15)" filter="url(#glowbig_34d399)" style="animation:nodeGlow 3.1999999999999997s 1.53s ease-in-out infinite;opacity:0"/>
 <circle cx="705.2" cy="211.2" r="9.6" fill="rgba(52,211,153,0.30)" filter="url(#glow_34d399)" style="animation:nodeGlow 2.6s 1.53s ease-in-out infinite;opacity:0"/>
-<circle cx="705.2" cy="211.2" r="6" fill="#34d399" style="animation:pnode11 3.1999999999999997s 1.53s ease-in-out infinite;opacity:0"/>
+<circle cx="705.2" cy="211.2" r="6.0" fill="#34d399" style="animation:pn11 3.1999999999999997s 1.53s ease-in-out infinite;opacity:0"/>
 <circle cx="602.0" cy="163.2" r="15.4" fill="rgba(52,211,153,0.15)" filter="url(#glowbig_34d399)" style="animation:nodeGlow 3.5999999999999996s 1.66s ease-in-out infinite;opacity:0"/>
 <circle cx="602.0" cy="163.2" r="8.8" fill="rgba(52,211,153,0.30)" filter="url(#glow_34d399)" style="animation:nodeGlow 2.9s 1.66s ease-in-out infinite;opacity:0"/>
-<circle cx="602.0" cy="163.2" r="5.5" fill="#34d399" style="animation:pnode12 3.5999999999999996s 1.66s ease-in-out infinite;opacity:0"/>
+<circle cx="602.0" cy="163.2" r="5.5" fill="#34d399" style="animation:pn12 3.5999999999999996s 1.66s ease-in-out infinite;opacity:0"/>
 <circle cx="240.8" cy="336.0" r="18.2" fill="rgba(251,146,60,0.15)" filter="url(#glowbig_fb923c)" style="animation:nodeGlow 4.0s 1.79s ease-in-out infinite;opacity:0"/>
 <circle cx="240.8" cy="336.0" r="10.4" fill="rgba(251,146,60,0.30)" filter="url(#glow_fb923c)" style="animation:nodeGlow 3.2s 1.79s ease-in-out infinite;opacity:0"/>
-<circle cx="240.8" cy="336.0" r="6.5" fill="#fb923c" style="animation:pnode13 4.0s 1.79s ease-in-out infinite;opacity:0"/>
+<circle cx="240.8" cy="336.0" r="6.5" fill="#fb923c" style="animation:pn13 4.0s 1.79s ease-in-out infinite;opacity:0"/>
 <circle cx="146.2" cy="384.0" r="15.4" fill="rgba(251,146,60,0.15)" filter="url(#glowbig_fb923c)" style="animation:nodeGlow 4.4s 1.92s ease-in-out infinite;opacity:0"/>
 <circle cx="146.2" cy="384.0" r="8.8" fill="rgba(251,146,60,0.30)" filter="url(#glow_fb923c)" style="animation:nodeGlow 3.5s 1.92s ease-in-out infinite;opacity:0"/>
-<circle cx="146.2" cy="384.0" r="5.5" fill="#fb923c" style="animation:pnode14 4.4s 1.92s ease-in-out infinite;opacity:0"/>
+<circle cx="146.2" cy="384.0" r="5.5" fill="#fb923c" style="animation:pn14 4.4s 1.92s ease-in-out infinite;opacity:0"/>
 <circle cx="309.6" cy="393.6" r="15.4" fill="rgba(251,146,60,0.15)" filter="url(#glowbig_fb923c)" style="animation:nodeGlow 2.8s 2.05s ease-in-out infinite;opacity:0"/>
 <circle cx="309.6" cy="393.6" r="8.8" fill="rgba(251,146,60,0.30)" filter="url(#glow_fb923c)" style="animation:nodeGlow 2.2s 2.05s ease-in-out infinite;opacity:0"/>
-<circle cx="309.6" cy="393.6" r="5.5" fill="#fb923c" style="animation:pnode15 2.8s 2.05s ease-in-out infinite;opacity:0"/>
+<circle cx="309.6" cy="393.6" r="5.5" fill="#fb923c" style="animation:pn15 2.8s 2.05s ease-in-out infinite;opacity:0"/>
 <circle cx="94.6" cy="326.4" r="15.4" fill="rgba(251,146,60,0.15)" filter="url(#glowbig_fb923c)" style="animation:nodeGlow 3.1999999999999997s 2.18s ease-in-out infinite;opacity:0"/>
 <circle cx="94.6" cy="326.4" r="8.8" fill="rgba(251,146,60,0.30)" filter="url(#glow_fb923c)" style="animation:nodeGlow 2.6s 2.18s ease-in-out infinite;opacity:0"/>
-<circle cx="94.6" cy="326.4" r="5.5" fill="#fb923c" style="animation:pnode16 3.1999999999999997s 2.18s ease-in-out infinite;opacity:0"/>
+<circle cx="94.6" cy="326.4" r="5.5" fill="#fb923c" style="animation:pn16 3.1999999999999997s 2.18s ease-in-out infinite;opacity:0"/>
 <circle cx="533.2" cy="302.4" r="19.6" fill="rgba(244,114,182,0.15)" filter="url(#glowbig_f472b6)" style="animation:nodeGlow 3.5999999999999996s 2.31s ease-in-out infinite;opacity:0"/>
 <circle cx="533.2" cy="302.4" r="11.2" fill="rgba(244,114,182,0.30)" filter="url(#glow_f472b6)" style="animation:nodeGlow 2.9s 2.31s ease-in-out infinite;opacity:0"/>
-<circle cx="533.2" cy="302.4" r="7" fill="#f472b6" style="animation:pnode17 3.5999999999999996s 2.31s ease-in-out infinite;opacity:0"/>
+<circle cx="533.2" cy="302.4" r="7.0" fill="#f472b6" style="animation:pn17 3.5999999999999996s 2.31s ease-in-out infinite;opacity:0"/>
 <circle cx="636.4" cy="355.2" r="18.2" fill="rgba(244,114,182,0.15)" filter="url(#glowbig_f472b6)" style="animation:nodeGlow 4.0s 2.44s ease-in-out infinite;opacity:0"/>
 <circle cx="636.4" cy="355.2" r="10.4" fill="rgba(244,114,182,0.30)" filter="url(#glow_f472b6)" style="animation:nodeGlow 3.2s 2.44s ease-in-out infinite;opacity:0"/>
-<circle cx="636.4" cy="355.2" r="6.5" fill="#f472b6" style="animation:pnode18 4.0s 2.44s ease-in-out infinite;opacity:0"/>
+<circle cx="636.4" cy="355.2" r="6.5" fill="#f472b6" style="animation:pn18 4.0s 2.44s ease-in-out infinite;opacity:0"/>
 <circle cx="507.4" cy="393.6" r="16.8" fill="rgba(244,114,182,0.15)" filter="url(#glowbig_f472b6)" style="animation:nodeGlow 4.4s 2.57s ease-in-out infinite;opacity:0"/>
 <circle cx="507.4" cy="393.6" r="9.6" fill="rgba(244,114,182,0.30)" filter="url(#glow_f472b6)" style="animation:nodeGlow 3.5s 2.57s ease-in-out infinite;opacity:0"/>
-<circle cx="507.4" cy="393.6" r="6" fill="#f472b6" style="animation:pnode19 4.4s 2.57s ease-in-out infinite;opacity:0"/>
+<circle cx="507.4" cy="393.6" r="6.0" fill="#f472b6" style="animation:pn19 4.4s 2.57s ease-in-out infinite;opacity:0"/>
 <circle cx="722.4" cy="297.6" r="15.4" fill="rgba(244,114,182,0.15)" filter="url(#glowbig_f472b6)" style="animation:nodeGlow 2.8s 2.70s ease-in-out infinite;opacity:0"/>
 <circle cx="722.4" cy="297.6" r="8.8" fill="rgba(244,114,182,0.30)" filter="url(#glow_f472b6)" style="animation:nodeGlow 2.2s 2.70s ease-in-out infinite;opacity:0"/>
-<circle cx="722.4" cy="297.6" r="5.5" fill="#f472b6" style="animation:pnode20 2.8s 2.70s ease-in-out infinite;opacity:0"/>
+<circle cx="722.4" cy="297.6" r="5.5" fill="#f472b6" style="animation:pn20 2.8s 2.70s ease-in-out infinite;opacity:0"/>
 </g>
-<g id="labels" font-family="Courier New, monospace">
-<text x="135.9" y="100.0" font-size="10.5" fill="#a78bfa" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 3.2s 0.80s ease-in-out infinite"/>
-<text x="135.9" y="100.0" font-size="10.5" fill="#a78bfa" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 0.80s ease forwards">Python</text>
-<text x="74.2" y="205.6" font-size="10.5" fill="#a78bfa" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 3.7s 0.93s ease-in-out infinite"/>
-<text x="74.2" y="205.6" font-size="10.5" fill="#a78bfa" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 0.93s ease forwards">R</text>
-<text x="203.7" y="186.4" font-size="10.5" fill="#a78bfa" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 4.2s 1.06s ease-in-out infinite"/>
-<text x="203.7" y="186.4" font-size="10.5" fill="#a78bfa" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 1.06s ease forwards">SQL</text>
-<text x="116.7" y="292.0" font-size="10.5" fill="#a78bfa" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 4.7s 1.19s ease-in-out infinite"/>
-<text x="116.7" y="292.0" font-size="10.5" fill="#a78bfa" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 1.19s ease forwards">Statistics</text>
-<text x="376.2" y="66.4" font-size="10.5" fill="#38bdf8" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 3.2s 1.32s ease-in-out infinite"/>
-<text x="376.2" y="66.4" font-size="10.5" fill="#38bdf8" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 1.32s ease forwards">scikit-learn</text>
-<text x="299.8" y="148.0" font-size="10.5" fill="#38bdf8" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 3.7s 1.45s ease-in-out infinite"/>
-<text x="299.8" y="148.0" font-size="10.5" fill="#38bdf8" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 1.45s ease forwards">Machine Learning</text>
-<text x="444.0" y="133.6" font-size="10.5" fill="#38bdf8" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 4.2s 1.58s ease-in-out infinite"/>
-<text x="444.0" y="133.6" font-size="10.5" fill="#38bdf8" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 1.58s ease forwards">Feature Eng.</text>
-<text x="332.7" y="234.4" font-size="10.5" fill="#38bdf8" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 4.7s 1.71s ease-in-out infinite"/>
-<text x="332.7" y="234.4" font-size="10.5" fill="#38bdf8" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 1.71s ease forwards">Model Interpret.</text>
-<text x="477.4" y="215.2" font-size="10.5" fill="#38bdf8" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 3.2s 1.84s ease-in-out infinite"/>
-<text x="477.4" y="215.2" font-size="10.5" fill="#38bdf8" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 1.84s ease forwards">Calibration</text>
-<text x="659.5" y="80.8" font-size="10.5" fill="#34d399" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 3.7s 1.97s ease-in-out infinite"/>
-<text x="659.5" y="80.8" font-size="10.5" fill="#34d399" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 1.97s ease forwards">Power BI</text>
-<text x="771.3" y="138.4" font-size="10.5" fill="#34d399" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 4.2s 2.10s ease-in-out infinite"/>
-<text x="771.3" y="138.4" font-size="10.5" fill="#34d399" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 2.10s ease forwards">Tableau</text>
-<text x="719.2" y="215.2" font-size="10.5" fill="#34d399" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 4.7s 2.23s ease-in-out infinite"/>
-<text x="719.2" y="215.2" font-size="10.5" fill="#34d399" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 2.23s ease forwards">Data Storytelling</text>
-<text x="615.5" y="167.2" font-size="10.5" fill="#34d399" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 3.2s 2.36s ease-in-out infinite"/>
-<text x="615.5" y="167.2" font-size="10.5" fill="#34d399" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 2.36s ease forwards">Dashboard Design</text>
-<text x="255.3" y="340.0" font-size="10.5" fill="#fb923c" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 3.7s 2.49s ease-in-out infinite"/>
-<text x="255.3" y="340.0" font-size="10.5" fill="#fb923c" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 2.49s ease forwards">Pandas</text>
-<text x="159.7" y="388.0" font-size="10.5" fill="#fb923c" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 4.2s 2.62s ease-in-out infinite"/>
-<text x="159.7" y="388.0" font-size="10.5" fill="#fb923c" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 2.62s ease forwards">NumPy</text>
-<text x="323.1" y="397.6" font-size="10.5" fill="#fb923c" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 4.7s 2.75s ease-in-out infinite"/>
-<text x="323.1" y="397.6" font-size="10.5" fill="#fb923c" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 2.75s ease forwards">Data Cleaning</text>
-<text x="108.1" y="330.4" font-size="10.5" fill="#fb923c" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 3.2s 2.88s ease-in-out infinite"/>
-<text x="108.1" y="330.4" font-size="10.5" fill="#fb923c" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 2.88s ease forwards">EDA</text>
-<text x="548.2" y="306.4" font-size="10.5" fill="#f472b6" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 3.7s 3.01s ease-in-out infinite"/>
-<text x="548.2" y="306.4" font-size="10.5" fill="#f472b6" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 3.01s ease forwards">Streamlit</text>
-<text x="650.9" y="359.2" font-size="10.5" fill="#f472b6" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 4.2s 3.14s ease-in-out infinite"/>
-<text x="650.9" y="359.2" font-size="10.5" fill="#f472b6" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 3.14s ease forwards">Interpretable AI</text>
-<text x="521.4" y="397.6" font-size="10.5" fill="#f472b6" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 4.7s 3.27s ease-in-out infinite"/>
-<text x="521.4" y="397.6" font-size="10.5" fill="#f472b6" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 3.27s ease forwards">Decision Support</text>
-<text x="735.9" y="301.6" font-size="10.5" fill="#f472b6" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:floatLabel 3.2s 3.40s ease-in-out infinite"/>
-<text x="735.9" y="301.6" font-size="10.5" fill="#f472b6" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 3.40s ease forwards">Analytics Eng.</text>
+<g id="labels" font-family="'Courier New', Courier, monospace">
+<text x="135.9" y="100.0" font-size="10.5" fill="#a78bfa" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 0.90s ease forwards, floatLbl 3.2s 1.50s ease-in-out infinite">Python</text>
+<text x="74.2" y="205.6" font-size="10.5" fill="#a78bfa" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 1.03s ease forwards, floatLbl 3.7s 1.63s ease-in-out infinite">R</text>
+<text x="203.7" y="186.4" font-size="10.5" fill="#a78bfa" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 1.16s ease forwards, floatLbl 4.2s 1.76s ease-in-out infinite">SQL</text>
+<text x="116.7" y="292.0" font-size="10.5" fill="#a78bfa" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 1.29s ease forwards, floatLbl 4.7s 1.89s ease-in-out infinite">Statistics</text>
+<text x="376.2" y="66.4" font-size="10.5" fill="#38bdf8" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 1.42s ease forwards, floatLbl 3.2s 2.02s ease-in-out infinite">scikit-learn</text>
+<text x="299.8" y="148.0" font-size="10.5" fill="#38bdf8" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 1.55s ease forwards, floatLbl 3.7s 2.15s ease-in-out infinite">Machine Learning</text>
+<text x="444.0" y="133.6" font-size="10.5" fill="#38bdf8" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 1.68s ease forwards, floatLbl 4.2s 2.28s ease-in-out infinite">Feature Eng.</text>
+<text x="332.7" y="234.4" font-size="10.5" fill="#38bdf8" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 1.81s ease forwards, floatLbl 4.7s 2.41s ease-in-out infinite">Model Interpret.</text>
+<text x="477.4" y="215.2" font-size="10.5" fill="#38bdf8" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 1.94s ease forwards, floatLbl 3.2s 2.54s ease-in-out infinite">Calibration</text>
+<text x="659.5" y="80.8" font-size="10.5" fill="#34d399" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 2.07s ease forwards, floatLbl 3.7s 2.67s ease-in-out infinite">Power BI</text>
+<text x="771.3" y="138.4" font-size="10.5" fill="#34d399" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 2.20s ease forwards, floatLbl 4.2s 2.80s ease-in-out infinite">Tableau</text>
+<text x="719.2" y="215.2" font-size="10.5" fill="#34d399" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 2.33s ease forwards, floatLbl 4.7s 2.93s ease-in-out infinite">Data Storytelling</text>
+<text x="615.5" y="167.2" font-size="10.5" fill="#34d399" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 2.46s ease forwards, floatLbl 3.2s 3.06s ease-in-out infinite">Dashboard Design</text>
+<text x="255.3" y="340.0" font-size="10.5" fill="#fb923c" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 2.59s ease forwards, floatLbl 3.7s 3.19s ease-in-out infinite">Pandas</text>
+<text x="159.7" y="388.0" font-size="10.5" fill="#fb923c" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 2.72s ease forwards, floatLbl 4.2s 3.32s ease-in-out infinite">NumPy</text>
+<text x="323.1" y="397.6" font-size="10.5" fill="#fb923c" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 2.85s ease forwards, floatLbl 4.7s 3.45s ease-in-out infinite">Data Cleaning</text>
+<text x="108.1" y="330.4" font-size="10.5" fill="#fb923c" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 2.98s ease forwards, floatLbl 3.2s 3.58s ease-in-out infinite">EDA</text>
+<text x="548.2" y="306.4" font-size="10.5" fill="#f472b6" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 3.11s ease forwards, floatLbl 3.7s 3.71s ease-in-out infinite">Streamlit</text>
+<text x="650.9" y="359.2" font-size="10.5" fill="#f472b6" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 3.24s ease forwards, floatLbl 4.2s 3.84s ease-in-out infinite">Interpretable AI</text>
+<text x="521.4" y="397.6" font-size="10.5" fill="#f472b6" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 3.37s ease forwards, floatLbl 4.7s 3.97s ease-in-out infinite">Decision Support</text>
+<text x="735.9" y="301.6" font-size="10.5" fill="#f472b6" font-weight="500" letter-spacing="0.04em" opacity="0" style="animation:fadeIn 0.6s 3.50s ease forwards, floatLbl 3.2s 4.10s ease-in-out infinite">Analytics Eng.</text>
 </g>
-<g id="group-labels" font-family="Courier New, monospace">
+<g id="group-labels" font-family="'Courier New', Courier, monospace">
 <text x="111.8" y="48.0" font-size="8.5" fill="#a78bfa" font-weight="700" letter-spacing="0.18em" text-anchor="middle" opacity="0" style="animation:fadeIn 0.8s 1.50s ease forwards">LANGUAGES</text>
 <text x="344.0" y="19.2" font-size="8.5" fill="#38bdf8" font-weight="700" letter-spacing="0.18em" text-anchor="middle" opacity="0" style="animation:fadeIn 0.8s 1.70s ease forwards">ML & STATS</text>
 <text x="662.2" y="33.6" font-size="8.5" fill="#34d399" font-weight="700" letter-spacing="0.18em" text-anchor="middle" opacity="0" style="animation:fadeIn 0.8s 1.90s ease forwards">VISUALIZATION</text>
 <text x="146.2" y="432.0" font-size="8.5" fill="#fb923c" font-weight="700" letter-spacing="0.18em" text-anchor="middle" opacity="0" style="animation:fadeIn 0.8s 2.10s ease forwards">DATA ENG.</text>
 <text x="584.8" y="254.4" font-size="8.5" fill="#f472b6" font-weight="700" letter-spacing="0.18em" text-anchor="middle" opacity="0" style="animation:fadeIn 0.8s 2.30s ease forwards">ANALYTICS</text>
 </g>
-<g id="legend" font-family="Courier New, monospace">
+<g id="legend" font-family="'Courier New', Courier, monospace">
 <circle cx="80" cy="460" r="3.5" fill="#a78bfa" opacity="0.85"/>
 <text x="89" y="464" font-size="9" fill="#a78bfa" letter-spacing="0.08em" opacity="0.75">LANGUAGES</text>
 <circle cx="240" cy="460" r="3.5" fill="#38bdf8" opacity="0.85"/>
