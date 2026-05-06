@@ -70,10 +70,6 @@ class Chetan:
 
 <br/><br/>
 
-<a href="https://ChetanDhingra02.github.io/ChetanDhingra02/skill_constellation_preview.html">
-  <img src="https://img.shields.io/badge/Open%20Interactive%20Constellation-020617?style=for-the-badge&logo=githubpages&logoColor=8BE9FD"/>
-</a>
-
 </div>
 
 <br/>
