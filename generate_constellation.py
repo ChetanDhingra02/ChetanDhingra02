@@ -20,7 +20,7 @@ constellations = [
         "edges": [[0,1],[0,2],[1,3],[2,3]]
     },
     {
-        "name": "ML & STATS", "color": "#38bdf8", "glow": "56,189,248",
+        "name": "ML &amp; STATS", "color": "#38bdf8", "glow": "56,189,248",
         "nodes": [
             {"x": 0.42, "y": 0.13, "label": "scikit-learn",    "r": 7.0},
             {"x": 0.33, "y": 0.30, "label": "Machine Learning","r": 8.0},
