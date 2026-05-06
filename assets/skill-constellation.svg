@@ -326,7 +326,7 @@
 <circle cx="230" cy="405" r="2.5" fill="#f8fafc" opacity="0.80"/>
 <text class="label" x="248" y="410" text-anchor="start">Statistics</text>
 <circle cx="710" cy="275" r="115" fill="#38bdf8" opacity="0.035" filter="url(#softGlow)"/>
-<text class="group" x="710" y="150" text-anchor="middle">ML & STATS</text>
+<text class="group" x="710" y="150" text-anchor="middle">ML &amp; STATS</text>
 <line class="edge" x1="620" y1="115" x2="520" y2="260" stroke="#38bdf8" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.15s"/>
 <line class="edge" x1="620" y1="115" x2="770" y2="235" stroke="#38bdf8" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.30s"/>
 <line class="edge" x1="520" y1="260" x2="770" y2="235" stroke="#38bdf8" stroke-width="2.4" opacity="0.72" filter="url(#softGlow)" style="animation-delay:0.45s"/>
@@ -479,7 +479,7 @@
 <circle cx="260" cy="718" r="5" fill="#a78bfa" filter="url(#softGlow)"/>
 <text x="273" y="722" fill="#cbd5e1" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="11">LANGUAGES</text>
 <circle cx="450" cy="718" r="5" fill="#38bdf8" filter="url(#softGlow)"/>
-<text x="463" y="722" fill="#cbd5e1" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="11">ML & STATS</text>
+<text x="463" y="722" fill="#cbd5e1" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="11">ML &amp; STATS</text>
 <circle cx="640" cy="718" r="5" fill="#34d399" filter="url(#softGlow)"/>
 <text x="653" y="722" fill="#cbd5e1" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="11">VISUALIZATION</text>
 <circle cx="830" cy="718" r="5" fill="#fb923c" filter="url(#softGlow)"/>
