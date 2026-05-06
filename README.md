@@ -82,7 +82,7 @@
 
 <br/>
 
-![Skill Constellation](skills-constellation.svg)
+![Skill Constellation](./skills-constellation.svg)
 
 <br/>
 
