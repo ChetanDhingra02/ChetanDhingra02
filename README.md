@@ -378,3 +378,9 @@ The best analytical work lives where left-brain precision meets right-brain visi
 <sub>*Built with curiosity · Powered by mathematics · Designed for clarity*</sub>
 
 </div>
+
+## ✦ Skill Constellation
+
+<p align="center">
+  <img src="./assets/skill-constellation.svg" width="96%" />
+</p>
