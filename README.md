@@ -37,12 +37,6 @@ class Chetan:
         "M.Sc. Mathematics"
     ]
 
-    philosophy = """
-        I don't just model — I explain.
-        I don't just predict — I reason.
-        I build systems that turn data into decisions.
-    """
-
     interests = [
         "Interpretable ML",
         "Statistical Modeling",
