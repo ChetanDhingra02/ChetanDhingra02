@@ -201,23 +201,6 @@
 
 ---
 
-<div align="center">
-
-<br/>
-
-```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │                                                                 │
-  │   "All models are wrong, but some are useful —                  │
-  │    the best ones also know when they are wrong."                │
-  │                                                                 │
-  │                           — Chetan  (after George Box)         │
-  │                                                                 │
-  └─────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
 ### ✦ &nbsp; C O N N E C T &nbsp; ✦
 
 <br/>
