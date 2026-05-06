@@ -3,11 +3,6 @@ name: Generate Skill Constellation
 on:
   workflow_dispatch:
 
-  push:
-    paths:
-      - "scripts/generate_constellation.py"
-      - ".github/workflows/generate-constellation.yml"
-
 permissions:
   contents: write
 
@@ -18,6 +13,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -28,12 +25,23 @@ jobs:
         run: |
           pip install svgwrite
 
-      - name: Generate Skill Constellation SVG
+      - name: Ensure assets folder exists
+        run: |
+          mkdir -p assets
+
+      - name: Generate SVG
         run: |
           python scripts/generate_constellation.py
 
       - name: Commit Updated SVG
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "✨ Update cosmic skill constellation"
-          file_pattern: assets/skill-constellation.svg
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git pull --rebase origin main
+
+          git add assets/skill-constellation.svg
+
+          git commit -m "✨ Update cosmic skill constellation" || echo "No changes to commit"
+
+          git push origin main
