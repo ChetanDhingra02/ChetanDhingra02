@@ -1,13 +1,24 @@
-name: Generate Snake Animation
+# ═══════════════════════════════════════════════════════════════════
+# WORKFLOW: Generate Contribution Snake Animation
+# File location in your repo: .github/workflows/snake.yml
+#
+# This workflow generates a snake animation from your GitHub
+# contribution graph and commits it to the `output` branch.
+# The README references it from that branch.
+#
+# Required: Go to Settings → Actions → General
+#           and set "Workflow permissions" to "Read and write"
+# ═══════════════════════════════════════════════════════════════════
+
+name: Generate Contribution Snake
 
 on:
-  schedule:
-    # Runs every 24 hours at midnight UTC
-    - cron: "0 0 * * *"
-  workflow_dispatch: # allows manual trigger from GitHub Actions tab
   push:
-    branches:
-      - main
+    branches: [main, master]
+  schedule:
+    # Regenerates every day at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -15,16 +26,16 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate github-contribution-grid-snake
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

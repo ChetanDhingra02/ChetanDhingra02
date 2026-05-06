@@ -1,0 +1,44 @@
+# ═══════════════════════════════════════════════════════════════════
+# WORKFLOW: Generate Skill Constellation SVG
+# File location in your repo: .github/workflows/constellation.yml
+#
+# This workflow runs a Python script that generates the animated
+# skills-constellation.svg and commits it to your profile repo.
+# It runs on push and on a weekly schedule to keep it fresh.
+# ═══════════════════════════════════════════════════════════════════
+
+name: Generate Skill Constellation
+
+on:
+  push:
+    branches: [main, master]
+  schedule:
+    # Regenerates every Sunday at 02:00 UTC
+    - cron: "0 2 * * 0"
+  workflow_dispatch:  # Allow manual trigger from GitHub UI
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate constellation SVG
+        run: python generate_constellation.py
+
+      - name: Commit and push SVG
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions"
+          git add skills-constellation.svg
+          git diff --staged --quiet || git commit -m "✨ Update skill constellation [auto]"
+          git push
