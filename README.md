@@ -122,13 +122,13 @@ specialties:
 
 # ✦ SKILL CONSTELLATION ✦
 
-<a href="https://YOUR_USERNAME.github.io/YOUR_USERNAME/skill_constellation_preview.html">
+<a href="https://ChetanDhingra02.github.io/ChetanDhingra02/skill_constellation_preview.html">
   <img src="./assets/skill-constellation-preview.png" width="96%" alt="Interactive Skill Constellation"/>
 </a>
 
 <br/><br/>
 
-<a href="https://YOUR_USERNAME.github.io/YOUR_USERNAME/skill_constellation_preview.html">
+<a href="https://ChetanDhingra02.github.io/ChetanDhingra02/skill_constellation_preview.html">
   <img src="https://img.shields.io/badge/Open%20Interactive%20Constellation-020617?style=for-the-badge&logo=githubpages&logoColor=8BE9FD"/>
 </a>
 
