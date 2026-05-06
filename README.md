@@ -251,12 +251,12 @@ Converting raw model results into visually compelling, human-interpretable data 
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&bg_color=0d0221&border_color=6b21a8&title_color=c4b5fd&text_color=e2d9f3&icon_color=9333ea&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=ChetanDhingra02&show_icons=true&theme=midnight-purple&bg_color=0d0221&border_color=6b21a8&title_color=c4b5fd&text_color=e2d9f3&icon_color=9333ea&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github" />
 
 </td>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&bg_color=0d0221&border_color=6b21a8&title_color=c4b5fd&text_color=e2d9f3&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanDhingra02&layout=compact&theme=midnight-purple&bg_color=0d0221&border_color=6b21a8&title_color=c4b5fd&text_color=e2d9f3&langs_count=8" />
 
 </td>
 </tr>
@@ -265,12 +265,12 @@ Converting raw model results into visually compelling, human-interpretable data 
 <br/>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&background=0d0221&border=6b21a8&ring=9333ea&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=e2d9f3&dates=a78bfa&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanDhingra02&theme=midnight-purple&background=0d0221&border=6b21a8&ring=9333ea&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=e2d9f3&dates=a78bfa&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d0221&color=c4b5fd&line=7c3aed&point=9333ea&area=true&area_color=2d1b69&border_color=6b21a8&hide_border=false" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanDhingra02&bg_color=0d0221&color=c4b5fd&line=7c3aed&point=9333ea&area=true&area_color=2d1b69&border_color=6b21a8&hide_border=false" width="95%" />
 
 </div>
 
@@ -352,15 +352,15 @@ The best analytical work lives where left-brain precision meets right-brain visi
 <br/><br/>
 
 <!-- Profile visitor counter — elegant -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6b21a8&labelColor=0d0221&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=ChetanDhingra02&style=for-the-badge&color=6b21a8&labelColor=0d0221&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
 <!-- Snake animation for contribution graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChetanDhingra02/ChetanDhingra02/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChetanDhingra02/ChetanDhingra02/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ChetanDhingra02/ChetanDhingra02/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
