@@ -24,7 +24,7 @@ constellations = [
         "edges": [(0, 1), (0, 2), (1, 3), (2, 3)],
     },
     {
-        "name": "ML & STATS",
+        "name": "ML &amp; STATS",
         "color": "#38bdf8",
         "cx": 710,
         "cy": 275,
