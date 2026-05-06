@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Chetan ✨</h1>
 
-<!--
-**ChetanDhingra02/ChetanDhingra02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Data Scientist · Statistical Thinker · ML Builder</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFB86C&center=true&vCenter=true&lines=Turning+data+into+decisions;Building+ML+systems;Learning+deeply%2C+not+memorizing;Statistics+%7C+Python+%7C+SQL+%7C+R" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">✦ ✧ ✦</p>
+
+---
+
+## 🌸 Profile Snapshot
+
+```yaml
+name: Chetan
+role: Data Scientist / Analyst
+location: Edmonton, Canada
+focus: Machine Learning, Statistics, Analytics, Dashboards
+approach: Concept-first thinking + practical execution
