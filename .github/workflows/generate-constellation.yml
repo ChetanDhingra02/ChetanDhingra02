@@ -1,0 +1,39 @@
+name: Generate Skill Constellation
+
+on:
+  workflow_dispatch:
+
+  push:
+    paths:
+      - "scripts/generate_constellation.py"
+      - ".github/workflows/generate-constellation.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build-constellation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Dependencies
+        run: |
+          pip install svgwrite
+
+      - name: Generate Skill Constellation SVG
+        run: |
+          python scripts/generate_constellation.py
+
+      - name: Commit Updated SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "✨ Update cosmic skill constellation"
+          file_pattern: assets/skill-constellation.svg
