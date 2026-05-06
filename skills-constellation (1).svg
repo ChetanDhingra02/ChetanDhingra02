@@ -1015,7 +1015,7 @@
 </text>
 <text x="344.0" y="19.2" font-size="8.5" fill="#38bdf8" font-weight="700" letter-spacing="0.18em" text-anchor="middle" opacity="0">
   <animate attributeName="opacity" from="0" to="0.7" begin="1.60s" dur="0.7s" fill="freeze"/>
-  ML & STATS
+  ML &amp; STATS
 </text>
 <text x="662.2" y="33.6" font-size="8.5" fill="#34d399" font-weight="700" letter-spacing="0.18em" text-anchor="middle" opacity="0">
   <animate attributeName="opacity" from="0" to="0.7" begin="1.80s" dur="0.7s" fill="freeze"/>
