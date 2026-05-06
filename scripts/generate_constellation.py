@@ -1,6 +1,7 @@
 import math
 import random
 import os
+import html
 
 WIDTH = 1400
 HEIGHT = 760
@@ -24,7 +25,7 @@ constellations = [
         "edges": [(0, 1), (0, 2), (1, 3), (2, 3)],
     },
     {
-        "name": "ML &amp; STATS",
+        "name": "ML & STATS",
         "color": "#38bdf8",
         "cx": 710,
         "cy": 275,
@@ -78,10 +79,8 @@ constellations = [
     },
 ]
 
-def glow_id(i):
-    return f"glow{i}"
-
 svg = []
+
 svg.append(f'''<svg width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}" fill="none" xmlns="http://www.w3.org/2000/svg">
 <defs>
   <radialGradient id="bgNebula" cx="50%" cy="45%" r="75%">
@@ -167,8 +166,8 @@ svg.append(f'''<svg width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIG
 </defs>
 
 <rect width="100%" height="100%" rx="26" fill="url(#bgNebula)"/>
-<rect x="10" y="10" width="{WIDTH-20}" height="{HEIGHT-20}" rx="24" stroke="url(#borderGrad)" stroke-opacity="0.55" stroke-width="2"/>
-<rect x="24" y="24" width="{WIDTH-48}" height="{HEIGHT-48}" rx="20" fill="#020617" opacity="0.38"/>
+<rect x="10" y="10" width="{WIDTH - 20}" height="{HEIGHT - 20}" rx="24" stroke="url(#borderGrad)" stroke-opacity="0.55" stroke-width="2"/>
+<rect x="24" y="24" width="{WIDTH - 48}" height="{HEIGHT - 48}" rx="20" fill="#020617" opacity="0.38"/>
 
 <g class="float">
   <circle cx="310" cy="175" r="180" fill="#7c3aed" opacity="0.08"/>
@@ -177,8 +176,8 @@ svg.append(f'''<svg width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIG
 </g>
 ''')
 
-# background stars
-for i in range(190):
+# Background stars
+for _ in range(190):
     x = random.randint(35, WIDTH - 35)
     y = random.randint(35, HEIGHT - 35)
     r = random.choice([1, 1.2, 1.5, 2, 2.4])
@@ -186,7 +185,7 @@ for i in range(190):
     delay = random.uniform(0, 3.5)
     color = random.choice(["#e0f2fe", "#a78bfa", "#38bdf8", "#f8fafc"])
     svg.append(
-        f'<circle class="star" cx="{x}" cy="{y}" r="{r}" fill="{color}" opacity="{opacity}" style="animation-delay:{delay:.2f}s"/>'
+        f'<circle class="star" cx="{x}" cy="{y}" r="{r}" fill="{color}" opacity="{opacity:.2f}" style="animation-delay:{delay:.2f}s"/>'
     )
 
 svg.append('''
@@ -195,6 +194,7 @@ svg.append('''
       font-size="28" font-weight="700" letter-spacing="0.08em">
   SKILL CONSTELLATION
 </text>
+
 <text x="50%" y="82" text-anchor="middle" fill="#94a3b8"
       font-family="JetBrains Mono, Fira Code, Consolas, monospace"
       font-size="13" letter-spacing="0.16em">
@@ -202,7 +202,7 @@ svg.append('''
 </text>
 ''')
 
-# faint inter-constellation links between group centers
+# Faint inter-constellation links
 for i in range(len(constellations)):
     for j in range(i + 1, len(constellations)):
         c1 = constellations[i]
@@ -213,79 +213,73 @@ for i in range(len(constellations)):
                 f'stroke="#64748b" stroke-width="1" opacity="0.10"/>'
             )
 
-# draw constellations
+# Draw constellations
 for ci, c in enumerate(constellations):
     color = c["color"]
     nodes = c["nodes"]
+    safe_group_name = html.escape(c["name"])
 
-    # group halo
     svg.append(
         f'<circle cx="{c["cx"]}" cy="{c["cy"]}" r="115" fill="{color}" opacity="0.035" filter="url(#softGlow)"/>'
     )
 
-    # group label
     svg.append(
-        f'<text class="group" x="{c["cx"]}" y="{c["cy"] - 125}" text-anchor="middle">{c["name"]}</text>'
+        f'<text class="group" x="{c["cx"]}" y="{c["cy"] - 125}" text-anchor="middle">{safe_group_name}</text>'
     )
 
-    # edges
     for ei, (a, b) in enumerate(c["edges"]):
         x1, y1 = nodes[a][1], nodes[a][2]
         x2, y2 = nodes[b][1], nodes[b][2]
         delay = 0.15 * (ci + ei)
+
         svg.append(
             f'<line class="edge" x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" '
             f'stroke="{color}" stroke-width="2.4" opacity="0.72" '
             f'filter="url(#softGlow)" style="animation-delay:{delay:.2f}s"/>'
         )
 
-    # center group node
     svg.append(
         f'<circle cx="{c["cx"]}" cy="{c["cy"]}" r="13" fill="{color}" opacity="0.65" filter="url(#strongGlow)"/>'
     )
 
-    # nodes
     for ni, (name, x, y, r) in enumerate(nodes):
+        safe_name = html.escape(name)
         delay = (ci * 0.25) + (ni * 0.18)
-        label_x = x + 18
+
+        if x > WIDTH - 250:
+            label_x = x - 18
+            anchor = "end"
+        else:
+            label_x = x + 18
+            anchor = "start"
+
         label_y = y + 5
 
-        # glow ring
         svg.append(
-            f'<circle class="node" cx="{x}" cy="{y}" r="{r*3.8}" fill="{color}" opacity="0.16" '
+            f'<circle class="node" cx="{x}" cy="{y}" r="{r * 3.8}" fill="{color}" opacity="0.16" '
             f'filter="url(#strongGlow)" style="animation-delay:{delay:.2f}s"/>'
         )
 
-        # outer ring
         svg.append(
-            f'<circle cx="{x}" cy="{y}" r="{r+8}" fill="none" stroke="{color}" '
+            f'<circle cx="{x}" cy="{y}" r="{r + 8}" fill="none" stroke="{color}" '
             f'stroke-opacity="0.32" stroke-width="1.4"/>'
         )
 
-        # main star
         svg.append(
             f'<circle class="node" cx="{x}" cy="{y}" r="{r}" fill="{color}" '
             f'filter="url(#strongGlow)" style="animation-delay:{delay:.2f}s"/>'
         )
 
-        # tiny white core
         svg.append(
-            f'<circle cx="{x}" cy="{y}" r="{max(2.5, r*0.32):.1f}" fill="#f8fafc" opacity="0.80"/>'
+            f'<circle cx="{x}" cy="{y}" r="{max(2.5, r * 0.32):.1f}" fill="#f8fafc" opacity="0.80"/>'
         )
 
-        # label placement adjustment
-        if x > WIDTH - 250:
-            label_x = x - 18
-            anchor = "end"
-        else:
-            anchor = "start"
-
         svg.append(
-            f'<text class="label" x="{label_x}" y="{label_y}" text-anchor="{anchor}">{name}</text>'
+            f'<text class="label" x="{label_x}" y="{label_y}" text-anchor="{anchor}">{safe_name}</text>'
         )
 
-# pixel/satellite details
-for i in range(36):
+# Pixel details
+for _ in range(36):
     x = random.randint(50, WIDTH - 50)
     y = random.randint(95, HEIGHT - 55)
     size = random.choice([3, 4, 5])
@@ -294,15 +288,21 @@ for i in range(36):
         f'<rect class="star" x="{x}" y="{y}" width="{size}" height="{size}" fill="{color}" opacity="0.28" rx="1"/>'
     )
 
-# bottom legend
+# Legend
 legend_y = HEIGHT - 42
-legend_x = 260
+legend_x = 190
+
 for ci, c in enumerate(constellations):
-    x = legend_x + ci * 190
-    svg.append(f'<circle cx="{x}" cy="{legend_y}" r="5" fill="{c["color"]}" filter="url(#softGlow)"/>')
+    x = legend_x + ci * 235
+    safe_group_name = html.escape(c["name"])
+
     svg.append(
-        f'<text x="{x+13}" y="{legend_y+4}" fill="#cbd5e1" '
-        f'font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="11">{c["name"]}</text>'
+        f'<circle cx="{x}" cy="{legend_y}" r="5" fill="{c["color"]}" filter="url(#softGlow)"/>'
+    )
+
+    svg.append(
+        f'<text x="{x + 13}" y="{legend_y + 4}" fill="#cbd5e1" '
+        f'font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="11">{safe_group_name}</text>'
     )
 
 svg.append("</svg>")
