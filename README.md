@@ -43,36 +43,6 @@
 ║  CORE BELIEF    ·  Models should explain decisions, not obscure them ║
 ║  APPROACH       ·  Concept-first · Logic + Creativity · Deep insight ║
 ╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**🔬 What I build**
-- Interpretable ML models that earn trust
-- Statistical systems grounded in theory
-- Dashboards that turn data into stories
-- Decision-support tools for real problems
-- Educational AI that teaches while it predicts
-
-</td>
-<td width="50%" valign="top">
-
-**🧠 How I think**
-- Concept before syntax — always
-- Ask *why* before *how*
-- Prefer elegant simplicity over brittle complexity
-- Combine mathematical rigor with creative problem-solving
-- Build systems that explain themselves
-
-</td>
-</tr>
-</table>
-
----
 
 <div align="center">
 
