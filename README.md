@@ -159,13 +159,13 @@
 
 <br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0820&title_color=c084fc&icon_color=a78bfa&text_color=e2d9f3&ring_color=7c3aed" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ChetanDhingra02&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0820&title_color=c084fc&icon_color=a78bfa&text_color=e2d9f3&ring_color=7c3aed" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0820&title_color=c084fc&text_color=e2d9f3&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanDhingra02&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0820&title_color=c084fc&text_color=e2d9f3&langs_count=6" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true&background=0d0820&ring=7c3aed&fire=c084fc&currStreakLabel=a78bfa&sideNums=e2d9f3&sideLabels=c084fc&dates=8b5cf6" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanDhingra02&theme=midnight-purple&hide_border=true&background=0d0820&ring=7c3aed&fire=c084fc&currStreakLabel=a78bfa&sideNums=e2d9f3&sideLabels=c084fc&dates=8b5cf6" width="500"/>
 
 </div>
 
@@ -180,9 +180,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChetanDhingra02/ChetanDhingra02/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChetanDhingra02/ChetanDhingra02/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChetanDhingra02/ChetanDhingra02/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -195,7 +195,7 @@
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d0820&color=c084fc&line=7c3aed&point=a78bfa&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChetanDhingra02&theme=tokyo-night&bg_color=0d0820&color=c084fc&line=7c3aed&point=a78bfa&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
