@@ -109,6 +109,8 @@
 
 <br/>
 
+<div align="center">
+
 ```python
 print("Thanks for stopping by — let's build something that makes sense.")
 ```
