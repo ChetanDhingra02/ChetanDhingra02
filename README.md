@@ -6,7 +6,7 @@
 
 [![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=1&pause=99999999&color=86EFAC&center=true&vCenter=true&repeat=false&width=700&lines=Data+Scientist+%C2%B7+ML+Engineer+%C2%B7+Statistical+Thinker)](https://git.io/typing-svg)
 
-<br/>
+
 
 <br/>
 
@@ -16,35 +16,19 @@
 
 ## `chetan_dhingra.py`
 
-```python
-class ChetanDhingra:
+</div>
+<br/>
 
-    name         = "Chetan Dhingra"
-    roles        = [ "Data Scientist", "ML Engineer", "Statistical Thinker" ]
-    education    = [ "MSc Data Science", "MSc Mathematics" ]
-
-    languages    = [ "Python", "R", "SQL" ]
-    ml_stack     = [ "scikit-learn", "SHAP", "LIME", "feature engineering" ]
-    viz_tools    = [ "Streamlit", "Power BI", "Tableau" ]
-
-    focus        = "models that explain their own decisions"
-    approach     = "concept-first  ·  logic + creativity"
-    open_to      = True  # roles · collabs · research conversations
-
-    def currently_building(self):
-        return [
-            "interpretable ML pipelines",
-            "decision-support dashboards",
-            "Healthcare AI systems",
-        ]
-```
+![ChetanDhingra class](./code-block.svg)
 
 <br/>
 
 ---
 
 <br/>
-
+<div align="center">
+<br/>
+    
 ## `Skills`
 
 <br/>
@@ -116,20 +100,12 @@ class ChetanDhingra:
 
 ## `github_stats`
 
-<br/>
-
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ChetanDhingra02&show_icons=true&hide_border=true&bg_color=09090f&title_color=818cf8&icon_color=86efac&text_color=94a3b8&ring_color=6366f1&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanDhingra02&layout=compact&hide_border=true&bg_color=09090f&title_color=818cf8&text_color=94a3b8&langs_count=5" />
-</p>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanDhingra02&hide_border=true&background=09090f&ring=818cf8&fire=c084fc&currStreakLabel=86efac&sideNums=818cf8&sideLabels=94a3b8&dates=475569&stroke=1e1e2e" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanDhingra02&hide_border=true&background=09090f&ring=F43F5E&fire=F97316&currStreakLabel=86EFAC&currStreakNum=F43F5E&sideNums=C084FC&sideLabels=86EFAC&dates=94A3B8&stroke=1e1e2e" width="500"/>
 
 <br/>
-
 ---
 
 <br/>
@@ -155,8 +131,6 @@ print("Thanks for stopping by — let's build something that makes sense.")
 ```
 
 <br/>
-
-<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)&nbsp;
 [![Email](https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)&nbsp;
