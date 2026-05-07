@@ -7,25 +7,8 @@
 [![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=1&pause=99999999&color=86EFAC&center=true&vCenter=true&repeat=false&width=700&lines=Data+Scientist+%C2%B7+ML+Engineer+%C2%B7+Statistical+Thinker)](https://git.io/typing-svg)
 
 
-
-<br/>
-
 ---
 
-<br/>
-
-## `chetan_dhingra.py`
-
-</div>
-<br/>
-
-![ChetanDhingra class](./code-block.svg)
-
-<br/>
-
----
-
-<br/>
 <div align="center">
 <br/>
     
