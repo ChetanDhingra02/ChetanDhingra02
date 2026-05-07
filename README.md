@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1500&color=818CF8&center=true&vCenter=true&width=600&lines=Chetan+Dhingra)](https://git.io/typing-svg)
+[![Name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=1&pause=99999999&color=F43F5E&center=true&vCenter=true&repeat=false&width=700&lines=Chetan+Dhingra)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2800&pause=1400&color=86EFAC&center=true&vCenter=true&width=700&lines=Data+Scientist+%C2%B7+ML+Engineer+%C2%B7+Statistical+Thinker;MSc+Data+Science+%C2%B7+MSc+Mathematics;Building+models+that+explain+their+own+decisions)](https://git.io/typing-svg)
+[![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=1&pause=99999999&color=86EFAC&center=true&vCenter=true&repeat=false&width=700&lines=Data+Scientist+%C2%B7+ML+Engineer+%C2%B7+Statistical+Thinker)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,11 +20,9 @@
 
 <br/>
 
-```python
-# ──────────────────────────────────────────────────────────────────
-# chetan_dhingra.py
-# ──────────────────────────────────────────────────────────────────
+## `chetan_dhingra.py`
 
+```python
 class ChetanDhingra:
 
     name         = "Chetan Dhingra"
@@ -76,21 +74,48 @@ class ChetanDhingra:
 ![Python](https://img.shields.io/badge/Python-4B32C3?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-1D6FA5?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0E7C86?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-9D174D?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1D4ED8?style=for-the-badge&logoColor=white)
 
 <br/>
 
-**`ml · stats`**&nbsp;&nbsp;
+**`ml · statistics`**&nbsp;&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-C2410C?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0F766E?style=for-the-badge&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-7C3AED?style=for-the-badge&logo=pandas&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-0F766E?style=for-the-badge&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-B45309?style=for-the-badge&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-DC2626?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-B45309?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 <br/>
 
-**`visualisation`**&nbsp;&nbsp;
+**`data · analytics`**&nbsp;&nbsp;
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-0F766E?style=for-the-badge&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-7C3AED?style=for-the-badge&logoColor=white)
+![Regression Modeling](https://img.shields.io/badge/Regression_Modeling-1D4ED8?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-9D174D?style=for-the-badge&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time_Series-0E7C86?style=for-the-badge&logoColor=white)
+
+<br/>
+
+**`visualisation · dashboards`**&nbsp;&nbsp;
 ![Streamlit](https://img.shields.io/badge/Streamlit-DC2626?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-B45309?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-C2410C?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4B32C3?style=for-the-badge&logo=looker&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1D4ED8?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0F766E?style=for-the-badge&logoColor=white)
+
+<br/>
+
+**`platforms · workflow`**&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/Git-DC2626?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1D6FA5?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-B45309?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1D4ED8?style=for-the-badge&logo=kubernetes&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0E7C86?style=for-the-badge&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-B45309?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <br/>
 
