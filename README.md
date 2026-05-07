@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=1&pause=99999999&color=F43F5E&center=true&vCenter=true&repeat=false&width=700&lines=Chetan+Dhingra)](https://git.io/typing-svg)
-
-[![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=1&pause=99999999&color=86EFAC&center=true&vCenter=true&repeat=false&width=700&lines=Data+Scientist+%C2%B7+ML+Engineer+%C2%B7+Statistical+Thinker)](https://git.io/typing-svg)
+[![Name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=1&pause=99999999&color=F43F5E&stroke=F43F5E&strokeWidth=0.8&center=true&vCenter=true&repeat=false&width=860&height=70&lines=Chetan+Dhingra)](https://git.io/typing-svg)
+ 
+[![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1&pause=99999999&color=86EFAC&stroke=86EFAC&strokeWidth=0.5&center=true&vCenter=true&repeat=false&width=860&height=40&lines=Data+Scientist+%C2%B7+ML+Engineer+%C2%B7+Statistical+Thinker)](https://git.io/typing-svg)
 
 
 ---
