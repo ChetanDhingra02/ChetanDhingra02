@@ -117,8 +117,7 @@ print("Thanks for stopping by — let's build something that makes sense.")
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)&nbsp;
-[![Email](https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-dhingra/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetandhingra02@gmail.com)&nbsp;
 
 </div>
